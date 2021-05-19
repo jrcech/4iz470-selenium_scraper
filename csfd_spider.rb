@@ -31,10 +31,17 @@ class CsfdSpider < Kimurai::Base
     item = {}
 
     item[:title] = @response.xpath("//h1").text.strip
+    item[:year] = @response.xpath("//span[@itemprop='dateCreated']").text.strip
     item[:rating] = @response.xpath("//div[@class='rating-average']").text.strip
+    item[:rating_value] = @response.xpath("//meta[@itemprop='ratingValue']").attribute('content')
+    item[:rating_count] = @response.xpath("//meta[@itemprop='ratingCount']").attribute('content')
+    item[:review_count] = @response.xpath("//meta[@itemprop='reviewCount']").attribute('content')
     item[:based_on] = @response.xpath("//h4[.='Předloha: ']/following::span[1]/a").text.strip
-    item[:directors] = loop_data "//span[@itemprop='director']/a"
+    item[:directors] = loop_data "//h4[.='Režie: ']/following::span[1]/a"
+    item[:scenarists] = loop_data "//h4[.='Scénář: ']/following::span[1]/a"
     item[:actors] = loop_data "//h4[.='Hrají: ']/following::span[1]/a"
+    item[:musicians] = loop_data "//h4[.='Hudba: ']/following::span[1]/a"
+    item[:producers] = loop_data "//h4[.='Produkce: ']/following::span[1]/a"
 
     # item[:repo_name] = response.xpath("//h1/strong[@itemprop='name']/a").text
     # item[:repo_url] = url

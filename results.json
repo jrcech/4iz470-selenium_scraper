@@ -1,9 +1,18 @@
 [
   {
     "title": "Pán prstenů: Společenstvo Prstenu",
+    "year": "2001",
     "rating": "90%",
+    "rating_value": "90.483751116964",
+    "rating_count": "106315",
+    "review_count": "1919",
     "based_on": "John Ronald Reuel Tolkien",
     "directors": [
+      "Peter Jackson"
+    ],
+    "scenarists": [
+      "Fran Walsh",
+      "Philippa Boyens",
       "Peter Jackson"
     ],
     "actors": [
@@ -18,13 +27,30 @@
       "John Rhys-Davies",
       "Billy Boyd"
     ],
+    "musicians": [
+      "Howard Shore"
+    ],
+    "producers": [
+      "Peter Jackson",
+      "Fran Walsh",
+      "Barrie M. Osborne"
+    ],
     "position": 1
   },
   {
     "title": "Pán prstenů: Návrat krále",
+    "year": "2003",
     "rating": "90%",
+    "rating_value": "90.409243127852",
+    "rating_count": "98841",
+    "review_count": "1600",
     "based_on": "John Ronald Reuel Tolkien",
     "directors": [
+      "Peter Jackson"
+    ],
+    "scenarists": [
+      "Fran Walsh",
+      "Philippa Boyens",
       "Peter Jackson"
     ],
     "actors": [
@@ -39,14 +65,29 @@
       "Liv Tyler",
       "Christopher Lee"
     ],
+    "musicians": [
+      "Howard Shore"
+    ],
+    "producers": [
+      "Peter Jackson",
+      "Fran Walsh",
+      "Barrie M. Osborne"
+    ],
     "position": 2
   },
   {
     "title": "Indiana Jones a Poslední křížová výprava",
+    "year": "1989",
     "rating": "90%",
+    "rating_value": "89.548448983622",
+    "rating_count": "70889",
+    "review_count": "928",
     "based_on": "",
     "directors": [
       "Steven Spielberg"
+    ],
+    "scenarists": [
+      "Jeffrey Boam"
     ],
     "actors": [
       "Harrison Ford",
@@ -59,14 +100,28 @@
       "Michael Byrne",
       "Kevork Malikyan"
     ],
+    "musicians": [
+      "John Williams"
+    ],
+    "producers": [
+      "Robert Watts"
+    ],
     "position": 3
   },
   {
     "title": "Star Wars: Epizoda V - Impérium vrací úder",
+    "year": "1980",
     "rating": "89%",
+    "rating_value": "89.01711626198",
+    "rating_count": "65318",
+    "review_count": "1045",
     "based_on": "",
     "directors": [
       "Irvin Kershner"
+    ],
+    "scenarists": [
+      "Leigh Brackett",
+      "Lawrence Kasdan"
     ],
     "actors": [
       "Mark Hamill",
@@ -79,13 +134,29 @@
       "Frank Oz",
       "Alec Guinness"
     ],
+    "musicians": [
+      "John Williams"
+    ],
+    "producers": [
+      "Gary Kurtz"
+    ],
     "position": 4
   },
   {
     "title": "Pán prstenů: Dvě věže",
+    "year": "2002",
     "rating": "88%",
+    "rating_value": "88.473911826017",
+    "rating_count": "96423",
+    "review_count": "1232",
     "based_on": "John Ronald Reuel Tolkien",
     "directors": [
+      "Peter Jackson"
+    ],
+    "scenarists": [
+      "Fran Walsh",
+      "Philippa Boyens",
+      "Stephen Sinclair",
       "Peter Jackson"
     ],
     "actors": [
@@ -100,13 +171,28 @@
       "Christopher Lee",
       "Miranda Otto"
     ],
+    "musicians": [
+      "Howard Shore"
+    ],
+    "producers": [
+      "Peter Jackson",
+      "Fran Walsh",
+      "Barrie M. Osborne"
+    ],
     "position": 5
   },
   {
     "title": "Star Wars: Epizoda IV - Nová naděje",
+    "year": "1977",
     "rating": "88%",
+    "rating_value": "87.757029081694",
+    "rating_count": "66296",
+    "review_count": "1213",
     "based_on": "",
     "directors": [
+      "George Lucas"
+    ],
+    "scenarists": [
       "George Lucas"
     ],
     "actors": [
@@ -120,14 +206,28 @@
       "David Prowse",
       "James Earl Jones"
     ],
+    "musicians": [
+      "John Williams"
+    ],
+    "producers": [
+      "Gary Kurtz"
+    ],
     "position": 6
   },
   {
     "title": "Cesta do pravěku",
+    "year": "1955",
     "rating": "87%",
+    "rating_value": "87.387372299447",
+    "rating_count": "47768",
+    "review_count": "756",
     "based_on": "",
     "directors": [
       "Karel Zeman"
+    ],
+    "scenarists": [
+      "Karel Zeman",
+      "J.A. Novotný"
     ],
     "actors": [
       "Petr Herrmann",
@@ -136,13 +236,26 @@
       "Zdeněk Husták",
       "Bedřich Šetena"
     ],
+    "musicians": [
+      "Emil František Burian"
+    ],
+    "producers": [
+
+    ],
     "position": 7
   },
   {
     "title": "Star Wars: Epizoda III - Pomsta Sithů",
+    "year": "2005",
     "rating": "87%",
+    "rating_value": "87.311464015352",
+    "rating_count": "66181",
+    "review_count": "1513",
     "based_on": "",
     "directors": [
+      "George Lucas"
+    ],
+    "scenarists": [
       "George Lucas"
     ],
     "actors": [
@@ -155,14 +268,28 @@
       "Frank Oz",
       "Anthony Daniels"
     ],
+    "musicians": [
+      "John Williams"
+    ],
+    "producers": [
+      "Rick McCallum"
+    ],
     "position": 8
   },
   {
     "title": "Star Wars: Epizoda VI - Návrat Jediho",
+    "year": "1983",
     "rating": "87%",
+    "rating_value": "87.183299591783",
+    "rating_count": "60262",
+    "review_count": "923",
     "based_on": "",
     "directors": [
       "Richard Marquand"
+    ],
+    "scenarists": [
+      "Lawrence Kasdan",
+      "George Lucas"
     ],
     "actors": [
       "Mark Hamill",
@@ -175,15 +302,29 @@
       "Frank Oz",
       "James Earl Jones"
     ],
+    "musicians": [
+      "John Williams"
+    ],
+    "producers": [
+      "Howard G. Kazanjian"
+    ],
     "position": 9
   },
   {
     "title": "Coco",
+    "year": "2017",
     "rating": "87%",
+    "rating_value": "87.169410024043",
+    "rating_count": "21628",
+    "review_count": "703",
     "based_on": "",
     "directors": [
       "Lee Unkrich",
       "Adrian Molina"
+    ],
+    "scenarists": [
+      "Adrian Molina",
+      "Matthew Aldrich"
     ],
     "actors": [
       "Anthony Gonzalez",
@@ -195,13 +336,26 @@
       "Jaime Camil",
       "Cheech Marin"
     ],
+    "musicians": [
+      "Michael Giacchino"
+    ],
+    "producers": [
+      "Darla K. Anderson"
+    ],
     "position": 10
   },
   {
     "title": "Princezna Mononoke",
+    "year": "1997",
     "rating": "87%",
+    "rating_value": "86.895054805918",
+    "rating_count": "27643",
+    "review_count": "882",
     "based_on": "",
     "directors": [
+      "Hajao Mijazaki"
+    ],
+    "scenarists": [
       "Hajao Mijazaki"
     ],
     "actors": [
@@ -215,13 +369,26 @@
       "Takako Fudži",
       "Adam Paul"
     ],
+    "musicians": [
+      "Džó Hisaiši"
+    ],
+    "producers": [
+      "Tošio Suzuki"
+    ],
     "position": 11
   },
   {
     "title": "Cesta do fantazie",
+    "year": "2001",
     "rating": "86%",
+    "rating_value": "86.482500705617",
+    "rating_count": "28344",
+    "review_count": "944",
     "based_on": "",
     "directors": [
+      "Hajao Mijazaki"
+    ],
+    "scenarists": [
       "Hajao Mijazaki"
     ],
     "actors": [
@@ -235,14 +402,27 @@
       "Jasuko Sawaguči",
       "Miju Irino"
     ],
+    "musicians": [
+      "Džó Hisaiši"
+    ],
+    "producers": [
+      "Tošio Suzuki"
+    ],
     "position": 12
   },
   {
     "title": "Vynález zkázy",
+    "year": "1958",
     "rating": "86%",
+    "rating_value": "86.306238992368",
+    "rating_count": "18737",
+    "review_count": "376",
     "based_on": "Jules Verne",
     "directors": [
       "Karel Zeman"
+    ],
+    "scenarists": [
+      "František Hrubín"
     ],
     "actors": [
       "Arnošt Navrátil",
@@ -254,15 +434,30 @@
       "Felix le Breux",
       "Otto Šimánek"
     ],
+    "musicians": [
+      "Zdeněk Liška"
+    ],
+    "producers": [
+
+    ],
     "position": 13
   },
   {
     "title": "Jak vycvičit draka",
+    "year": "2010",
     "rating": "86%",
+    "rating_value": "86.084030318871",
+    "rating_count": "61216",
+    "review_count": "1751",
     "based_on": "Cressida Cowell",
     "directors": [
       "Chris Sanders",
       "Dean DeBlois"
+    ],
+    "scenarists": [
+      "William Davies",
+      "Dean DeBlois",
+      "Chris Sanders"
     ],
     "actors": [
       "Jay Baruchel",
@@ -274,14 +469,28 @@
       "T.J. Miller",
       "Kristen Wiig"
     ],
+    "musicians": [
+      "John Powell",
+      "Jo Blankenburg"
+    ],
+    "producers": [
+      "Bonnie Arnold"
+    ],
     "position": 14
   },
   {
     "title": "Pink Floyd: The Wall",
+    "year": "1982",
     "rating": "86%",
+    "rating_value": "86.033574183734",
+    "rating_count": "18407",
+    "review_count": "577",
     "based_on": "",
     "directors": [
       "Alan Parker"
+    ],
+    "scenarists": [
+
     ],
     "actors": [
       "Bob Geldof",
@@ -295,13 +504,28 @@
       "Nell Campbell",
       "Eddie Tagoe"
     ],
+    "musicians": [
+      "Roger Waters"
+    ],
+    "producers": [
+      "Alan Marshall"
+    ],
     "position": 15
   },
   {
     "title": "Život je krásný",
+    "year": "1946",
     "rating": "86%",
+    "rating_value": "85.900558092339",
+    "rating_count": "7884",
+    "review_count": "404",
     "based_on": "",
     "directors": [
+      "Frank Capra"
+    ],
+    "scenarists": [
+      "Frances Goodrich",
+      "Albert Hackett",
       "Frank Capra"
     ],
     "actors": [
@@ -315,15 +539,28 @@
       "Ward Bond",
       "Gloria Grahame"
     ],
+    "musicians": [
+      "Dimitri Tiomkin"
+    ],
+    "producers": [
+      "Frank Capra"
+    ],
     "position": 16
   },
   {
     "title": "Ratatouille",
+    "year": "2007",
     "rating": "85%",
+    "rating_value": "85.477682358719",
+    "rating_count": "67189",
+    "review_count": "1272",
     "based_on": "",
     "directors": [
       "Brad Bird",
       "Jan Pinkava"
+    ],
+    "scenarists": [
+      "Brad Bird"
     ],
     "actors": [
       "Patton Oswalt",
@@ -338,14 +575,27 @@
       "James Remar",
       "Teddy Newton"
     ],
+    "musicians": [
+      "Michael Giacchino"
+    ],
+    "producers": [
+      "Brad Lewis"
+    ],
     "position": 17
   },
   {
     "title": "Harry Potter a vězeň z Azkabanu",
+    "year": "2004",
     "rating": "85%",
+    "rating_value": "85.340514246004",
+    "rating_count": "80584",
+    "review_count": "1251",
     "based_on": "J. K. Rowling",
     "directors": [
       "Alfonso Cuarón"
+    ],
+    "scenarists": [
+      "Steve Kloves"
     ],
     "actors": [
       "Daniel Radcliffe",
@@ -358,14 +608,30 @@
       "Lenny Henry",
       "Matthew Lewis"
     ],
+    "musicians": [
+      "John Williams"
+    ],
+    "producers": [
+      "Chris Columbus",
+      "David Heyman",
+      "Mark Radcliffe"
+    ],
     "position": 18
   },
   {
     "title": "Nekonečný příběh",
+    "year": "1984",
     "rating": "85%",
+    "rating_value": "85.234747203392",
+    "rating_count": "47647",
+    "review_count": "1053",
     "based_on": "Michael Ende",
     "directors": [
       "Wolfgang Petersen"
+    ],
+    "scenarists": [
+      "Wolfgang Petersen",
+      "Herman Weigel"
     ],
     "actors": [
       "Barret Oliver",
@@ -379,13 +645,28 @@
       "Sydney Bromley",
       "Deep Roy"
     ],
+    "musicians": [
+      "Klaus Doldinger",
+      "Giorgio Moroder"
+    ],
+    "producers": [
+      "Bernd Eichinger",
+      "Dieter Geissler"
+    ],
     "position": 19
   },
   {
     "title": "Zámek v oblacích",
+    "year": "2004",
     "rating": "85%",
+    "rating_value": "85.272923150587",
+    "rating_count": "16708",
+    "review_count": "663",
     "based_on": "",
     "directors": [
+      "Hajao Mijazaki"
+    ],
+    "scenarists": [
       "Hajao Mijazaki"
     ],
     "actors": [
@@ -399,6 +680,13 @@
       "Joel McCrary",
       "Akihiro Miwa",
       "Haruko Kató"
+    ],
+    "musicians": [
+      "Džó Hisaiši",
+      "Jumi Kimura"
+    ],
+    "producers": [
+      "Tošio Suzuki"
     ],
     "position": 20
   }
