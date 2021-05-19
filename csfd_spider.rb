@@ -32,7 +32,7 @@ class CsfdSpider < Kimurai::Base
 
     item[:title] = @response.xpath("//h1").text.strip
     item[:year] = @response.xpath("//span[@itemprop='dateCreated']").text.strip
-    item[:rating] = @response.xpath("//div[@class='rating-average']").text.strip
+    item[:genres] = @response.xpath("//div[@class='genres']").text.split(' / ')
     item[:rating_value] = @response.xpath("//meta[@itemprop='ratingValue']").attribute('content')
     item[:rating_count] = @response.xpath("//meta[@itemprop='ratingCount']").attribute('content')
     item[:review_count] = @response.xpath("//meta[@itemprop='reviewCount']").attribute('content')
