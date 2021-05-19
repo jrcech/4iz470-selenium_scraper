@@ -2,6 +2,7 @@
   {
     "title": "Pán prstenů: Společenstvo Prstenu",
     "rating": "90%",
+    "based_on": "John Ronald Reuel Tolkien",
     "directors": [
       "Peter Jackson"
     ],
@@ -22,6 +23,7 @@
   {
     "title": "Pán prstenů: Návrat krále",
     "rating": "90%",
+    "based_on": "John Ronald Reuel Tolkien",
     "directors": [
       "Peter Jackson"
     ],
@@ -42,6 +44,7 @@
   {
     "title": "Indiana Jones a Poslední křížová výprava",
     "rating": "90%",
+    "based_on": "",
     "directors": [
       "Steven Spielberg"
     ],
@@ -61,6 +64,7 @@
   {
     "title": "Star Wars: Epizoda V - Impérium vrací úder",
     "rating": "89%",
+    "based_on": "",
     "directors": [
       "Irvin Kershner"
     ],
@@ -80,6 +84,7 @@
   {
     "title": "Pán prstenů: Dvě věže",
     "rating": "88%",
+    "based_on": "John Ronald Reuel Tolkien",
     "directors": [
       "Peter Jackson"
     ],
@@ -100,6 +105,7 @@
   {
     "title": "Star Wars: Epizoda IV - Nová naděje",
     "rating": "88%",
+    "based_on": "",
     "directors": [
       "George Lucas"
     ],
@@ -119,6 +125,7 @@
   {
     "title": "Cesta do pravěku",
     "rating": "87%",
+    "based_on": "",
     "directors": [
       "Karel Zeman"
     ],
@@ -134,6 +141,7 @@
   {
     "title": "Star Wars: Epizoda III - Pomsta Sithů",
     "rating": "87%",
+    "based_on": "",
     "directors": [
       "George Lucas"
     ],
@@ -152,6 +160,7 @@
   {
     "title": "Star Wars: Epizoda VI - Návrat Jediho",
     "rating": "87%",
+    "based_on": "",
     "directors": [
       "Richard Marquand"
     ],
@@ -171,6 +180,7 @@
   {
     "title": "Coco",
     "rating": "87%",
+    "based_on": "",
     "directors": [
       "Lee Unkrich",
       "Adrian Molina"
@@ -190,6 +200,7 @@
   {
     "title": "Princezna Mononoke",
     "rating": "87%",
+    "based_on": "",
     "directors": [
       "Hajao Mijazaki"
     ],
@@ -209,6 +220,7 @@
   {
     "title": "Cesta do fantazie",
     "rating": "86%",
+    "based_on": "",
     "directors": [
       "Hajao Mijazaki"
     ],
@@ -228,6 +240,7 @@
   {
     "title": "Vynález zkázy",
     "rating": "86%",
+    "based_on": "Jules Verne",
     "directors": [
       "Karel Zeman"
     ],
@@ -246,6 +259,7 @@
   {
     "title": "Jak vycvičit draka",
     "rating": "86%",
+    "based_on": "Cressida Cowell",
     "directors": [
       "Chris Sanders",
       "Dean DeBlois"
@@ -265,6 +279,7 @@
   {
     "title": "Pink Floyd: The Wall",
     "rating": "86%",
+    "based_on": "",
     "directors": [
       "Alan Parker"
     ],
@@ -285,6 +300,7 @@
   {
     "title": "Život je krásný",
     "rating": "86%",
+    "based_on": "",
     "directors": [
       "Frank Capra"
     ],
@@ -304,6 +320,7 @@
   {
     "title": "Ratatouille",
     "rating": "85%",
+    "based_on": "",
     "directors": [
       "Brad Bird",
       "Jan Pinkava"
@@ -326,6 +343,7 @@
   {
     "title": "Harry Potter a vězeň z Azkabanu",
     "rating": "85%",
+    "based_on": "J. K. Rowling",
     "directors": [
       "Alfonso Cuarón"
     ],
@@ -345,6 +363,7 @@
   {
     "title": "Nekonečný příběh",
     "rating": "85%",
+    "based_on": "Michael Ende",
     "directors": [
       "Wolfgang Petersen"
     ],
@@ -365,6 +384,7 @@
   {
     "title": "Zámek v oblacích",
     "rating": "85%",
+    "based_on": "",
     "directors": [
       "Hajao Mijazaki"
     ],

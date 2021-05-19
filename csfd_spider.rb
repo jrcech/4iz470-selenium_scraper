@@ -32,6 +32,7 @@ class CsfdSpider < Kimurai::Base
 
     item[:title] = @response.xpath("//h1").text.strip
     item[:rating] = @response.xpath("//div[@class='rating-average']").text.strip
+    item[:based_on] = @response.xpath("//h4[.='Předloha: ']/following::span[1]/a").text.strip
     item[:directors] = loop_data "//span[@itemprop='director']/a"
     item[:actors] = loop_data "//h4[.='Hrají: ']/following::span[1]/a"
 
