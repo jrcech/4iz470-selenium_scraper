@@ -1,102 +1,322 @@
 [
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tPán prstenů: Společenstvo Prstenu\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Pán prstenů: Společenstvo Prstenu",
     "director": "Peter Jackson",
+    "actors": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Noel Appleby",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Cate Blanchett",
+      "Sean Bean",
+      "Liv Tyler",
+      "John Rhys-Davies",
+      "Billy Boyd"
+    ],
     "position": 1
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tPán prstenů: Návrat krále\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Pán prstenů: Návrat krále",
     "director": "Peter Jackson",
+    "actors": [
+      "Elijah Wood",
+      "Noel Appleby",
+      "Billy Boyd",
+      "Dominic Monaghan",
+      "Sean Astin",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Orlando Bloom",
+      "Liv Tyler",
+      "Christopher Lee"
+    ],
     "position": 2
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tIndiana Jones a Poslední křížová výprava\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Indiana Jones a Poslední křížová výprava",
     "director": "Steven Spielberg",
+    "actors": [
+      "Harrison Ford",
+      "Sean Connery",
+      "Denholm Elliott",
+      "Alison Doody",
+      "John Rhys-Davies",
+      "Julian Glover",
+      "River Phoenix",
+      "Michael Byrne",
+      "Kevork Malikyan"
+    ],
     "position": 3
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tStar Wars: Epizoda V - Impérium vrací úder\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Star Wars: Epizoda V - Impérium vrací úder",
     "director": "Irvin Kershner",
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams",
+      "Anthony Daniels",
+      "David Prowse",
+      "Peter Mayhew",
+      "Frank Oz",
+      "Alec Guinness"
+    ],
     "position": 4
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tPán prstenů: Dvě věže\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Pán prstenů: Dvě věže",
     "director": "Peter Jackson",
+    "actors": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Liv Tyler",
+      "Billy Boyd",
+      "John Rhys-Davies",
+      "Dominic Monaghan",
+      "Christopher Lee",
+      "Miranda Otto"
+    ],
     "position": 5
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tStar Wars: Epizoda IV - Nová naděje\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Star Wars: Epizoda IV - Nová naděje",
     "director": "George Lucas",
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Peter Cushing",
+      "Alec Guinness",
+      "Anthony Daniels",
+      "Peter Mayhew",
+      "David Prowse",
+      "James Earl Jones"
+    ],
     "position": 6
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tCesta do pravěku\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Cesta do pravěku",
     "director": "Karel Zeman",
+    "actors": [
+      "Petr Herrmann",
+      "Vladimír Bejval",
+      "Josef Lukáš",
+      "Zdeněk Husták",
+      "Bedřich Šetena"
+    ],
     "position": 7
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tStar Wars: Epizoda III - Pomsta Sithů\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Star Wars: Epizoda III - Pomsta Sithů",
     "director": "George Lucas",
+    "actors": [
+      "Ewan McGregor",
+      "Natalie Portman",
+      "Hayden Christensen",
+      "Ian McDiarmid",
+      "Samuel L. Jackson",
+      "Jimmy Smits",
+      "Frank Oz",
+      "Anthony Daniels"
+    ],
     "position": 8
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tStar Wars: Epizoda VI - Návrat Jediho\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Star Wars: Epizoda VI - Návrat Jediho",
     "director": "Richard Marquand",
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams",
+      "Anthony Daniels",
+      "Peter Mayhew",
+      "Ian McDiarmid",
+      "Frank Oz",
+      "James Earl Jones"
+    ],
     "position": 9
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tCoco\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Coco",
     "director": "Lee UnkrichAdrian Molina",
+    "actors": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt",
+      "Alanna Ubach",
+      "Edward James Olmos",
+      "Gabriel Iglesias",
+      "Jaime Camil",
+      "Cheech Marin"
+    ],
     "position": 10
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tPrincezna Mononoke\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Princezna Mononoke",
     "director": "Hajao Mijazaki",
+    "actors": [
+      "Júko Tanaka",
+      "Jódži Macuda",
+      "Kaoru Kobajaši",
+      "Tecu Watanabe",
+      "Juriko Išida",
+      "Masahiko Nišimura",
+      "Jošimasa Kondó",
+      "Takako Fudži",
+      "Adam Paul"
+    ],
     "position": 11
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tCesta do fantazie\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Cesta do fantazie",
     "director": "Hajao Mijazaki",
+    "actors": [
+      "Rumi Hiiragi",
+      "Takaši Naitó",
+      "Rjúnosuke Kamiki",
+      "Bunta Sugawara",
+      "Mari Nacuki",
+      "Šigejuki Tocugi",
+      "Takehiko Ono",
+      "Jasuko Sawaguči",
+      "Miju Irino"
+    ],
     "position": 12
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tVynález zkázy\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Vynález zkázy",
     "director": "Karel Zeman",
+    "actors": [
+      "Arnošt Navrátil",
+      "Lubor Tokoš",
+      "František Šlégr",
+      "Miloslav Holub",
+      "Václav Kyzlink",
+      "Jana Zatloukalová",
+      "Felix le Breux",
+      "Otto Šimánek"
+    ],
     "position": 13
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tJak vycvičit draka\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Jak vycvičit draka",
     "director": "Chris SandersDean DeBlois",
+    "actors": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Craig Ferguson",
+      "America Ferrera",
+      "Jonah Hill",
+      "Christopher Mintz-Plasse",
+      "T.J. Miller",
+      "Kristen Wiig"
+    ],
     "position": 14
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tPink Floyd: The Wall\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Pink Floyd: The Wall",
     "director": "Alan Parker",
+    "actors": [
+      "Bob Geldof",
+      "Bob Hoskins",
+      "Joanne Whalley",
+      "Kevin McKeon",
+      "Phil Davis",
+      "Roger Waters",
+      "Jenny Wright",
+      "Alex McAvoy",
+      "Nell Campbell",
+      "Eddie Tagoe"
+    ],
     "position": 15
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tŽivot je krásný\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Život je krásný",
     "director": "Frank Capra",
+    "actors": [
+      "James Stewart",
+      "Donna Reed",
+      "Lionel Barrymore",
+      "Thomas Mitchell",
+      "Henry Travers",
+      "Beulah Bondi",
+      "Frank Faylen",
+      "Ward Bond",
+      "Gloria Grahame"
+    ],
     "position": 16
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tRatatouille\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Ratatouille",
     "director": "Brad BirdJan Pinkava",
+    "actors": [
+      "Patton Oswalt",
+      "Ian Holm",
+      "Lou Romano",
+      "Brian Dennehy",
+      "Peter Sohn",
+      "Peter O'Toole",
+      "Brad Garrett",
+      "Janeane Garofalo",
+      "Will Arnett",
+      "James Remar",
+      "Teddy Newton"
+    ],
     "position": 17
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tHarry Potter a vězeň z Azkabanu\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Harry Potter a vězeň z Azkabanu",
     "director": "Alfonso Cuarón",
+    "actors": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Pam Ferris",
+      "Emma Thompson",
+      "Tom Felton",
+      "Geraldine Somerville",
+      "Lenny Henry",
+      "Matthew Lewis"
+    ],
     "position": 18
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tNekonečný příběh\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Nekonečný příběh",
     "director": "Wolfgang Petersen",
+    "actors": [
+      "Barret Oliver",
+      "Noah Hathaway",
+      "Gerald McRaney",
+      "Drum Garrett",
+      "Darryl Cooksey",
+      "Thomas Hill",
+      "Tilo Prückner",
+      "Moses Gunn",
+      "Sydney Bromley",
+      "Deep Roy"
+    ],
     "position": 19
   },
   {
-    "title": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tZámek v oblacích\n\t\t\t\t\t\t\n\t\t\t\t\t",
+    "title": "Zámek v oblacích",
     "director": "Hajao Mijazaki",
+    "actors": [
+      "Takuja Kimura",
+      "Čieko Baišó",
+      "Akio Ócuka",
+      "Rjúnosuke Kamiki",
+      "Jó Óizumi",
+      "Šigejuki Tocugi",
+      "Sang-hyeon Eom",
+      "Joel McCrary",
+      "Akihiro Miwa",
+      "Haruko Kató"
+    ],
     "position": 20
   }
 ]

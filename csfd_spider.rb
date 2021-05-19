@@ -28,8 +28,17 @@ class CsfdSpider < Kimurai::Base
   def parse_repo_page(response, url:, data: {})
     item = {}
 
-    item[:title] = response.xpath("//h1").text
+    item[:title] = response.xpath("//h1").text.strip
     item[:director] = response.xpath("//span[@itemprop='director']/a").text
+
+    actors = []
+
+    response.xpath("//h4[.='Hrají: ']/following::span[1]/a").each do |actor|
+      actors << actor.text
+    end
+
+    item[:actors] = actors
+
     # item[:repo_name] = response.xpath("//h1/strong[@itemprop='name']/a").text
     # item[:repo_url] = url
     # item[:description] = response.xpath("//span[@itemprop='about']").text.squish
