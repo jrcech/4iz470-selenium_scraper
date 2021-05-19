@@ -39,7 +39,7 @@ class CsfdSpider < Kimurai::Base
     item[:based_on] = @response.xpath("//h4[.='Předloha: ']/following::span[1]/a").text.strip
     item[:directors] = loop_data "//h4[.='Režie: ']/following::span[1]/a"
     item[:scenarists] = loop_data "//h4[.='Scénář: ']/following::span[1]/a"
-    item[:actors] = loop_data "//h4[.='Hrají: ']/following::span[1]/a"
+    item[:actors] = loop_data "//h4[.='Hrají: ']/following::span[1]/a | //h4[.='Hrají: ']/following::span[1]/span[1]/a"
     item[:musicians] = loop_data "//h4[.='Hudba: ']/following::span[1]/a"
     item[:producers] = loop_data "//h4[.='Produkce: ']/following::span[1]/a"
 
