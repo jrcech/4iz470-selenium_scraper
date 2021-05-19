@@ -26,18 +26,14 @@ class CsfdSpider < Kimurai::Base
   end
 
   def parse_repo_page(response, url:, data: {})
+    @response = response
+
     item = {}
 
-    item[:title] = response.xpath("//h1").text.strip
-    item[:director] = response.xpath("//span[@itemprop='director']/a").text
-
-    actors = []
-
-    response.xpath("//h4[.='Hrají: ']/following::span[1]/a").each do |actor|
-      actors << actor.text
-    end
-
-    item[:actors] = actors
+    item[:title] = @response.xpath("//h1").text.strip
+    item[:rating] = @response.xpath("//div[@class='rating-average']").text.strip
+    item[:directors] = loop_data "//span[@itemprop='director']/a"
+    item[:actors] = loop_data "//h4[.='Hrají: ']/following::span[1]/a"
 
     # item[:repo_name] = response.xpath("//h1/strong[@itemprop='name']/a").text
     # item[:repo_url] = url
@@ -49,6 +45,16 @@ class CsfdSpider < Kimurai::Base
     # item[:last_commit] = response.xpath("//span[@itemprop='dateModified']/*").text
 
     save_to "results.json", item, format: :pretty_json
+  end
+
+  def loop_data(xpath)
+    items = []
+
+    @response.xpath(xpath).each do |item|
+      items << item.text
+    end
+
+    items
   end
 end
 

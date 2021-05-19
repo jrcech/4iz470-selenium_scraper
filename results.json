@@ -1,7 +1,10 @@
 [
   {
     "title": "Pán prstenů: Společenstvo Prstenu",
-    "director": "Peter Jackson",
+    "rating": "90%",
+    "directors": [
+      "Peter Jackson"
+    ],
     "actors": [
       "Elijah Wood",
       "Ian McKellen",
@@ -18,7 +21,10 @@
   },
   {
     "title": "Pán prstenů: Návrat krále",
-    "director": "Peter Jackson",
+    "rating": "90%",
+    "directors": [
+      "Peter Jackson"
+    ],
     "actors": [
       "Elijah Wood",
       "Noel Appleby",
@@ -35,7 +41,10 @@
   },
   {
     "title": "Indiana Jones a Poslední křížová výprava",
-    "director": "Steven Spielberg",
+    "rating": "90%",
+    "directors": [
+      "Steven Spielberg"
+    ],
     "actors": [
       "Harrison Ford",
       "Sean Connery",
@@ -51,7 +60,10 @@
   },
   {
     "title": "Star Wars: Epizoda V - Impérium vrací úder",
-    "director": "Irvin Kershner",
+    "rating": "89%",
+    "directors": [
+      "Irvin Kershner"
+    ],
     "actors": [
       "Mark Hamill",
       "Harrison Ford",
@@ -67,7 +79,10 @@
   },
   {
     "title": "Pán prstenů: Dvě věže",
-    "director": "Peter Jackson",
+    "rating": "88%",
+    "directors": [
+      "Peter Jackson"
+    ],
     "actors": [
       "Elijah Wood",
       "Ian McKellen",
@@ -84,7 +99,10 @@
   },
   {
     "title": "Star Wars: Epizoda IV - Nová naděje",
-    "director": "George Lucas",
+    "rating": "88%",
+    "directors": [
+      "George Lucas"
+    ],
     "actors": [
       "Mark Hamill",
       "Harrison Ford",
@@ -100,7 +118,10 @@
   },
   {
     "title": "Cesta do pravěku",
-    "director": "Karel Zeman",
+    "rating": "87%",
+    "directors": [
+      "Karel Zeman"
+    ],
     "actors": [
       "Petr Herrmann",
       "Vladimír Bejval",
@@ -112,7 +133,10 @@
   },
   {
     "title": "Star Wars: Epizoda III - Pomsta Sithů",
-    "director": "George Lucas",
+    "rating": "87%",
+    "directors": [
+      "George Lucas"
+    ],
     "actors": [
       "Ewan McGregor",
       "Natalie Portman",
@@ -127,7 +151,10 @@
   },
   {
     "title": "Star Wars: Epizoda VI - Návrat Jediho",
-    "director": "Richard Marquand",
+    "rating": "87%",
+    "directors": [
+      "Richard Marquand"
+    ],
     "actors": [
       "Mark Hamill",
       "Harrison Ford",
@@ -143,7 +170,11 @@
   },
   {
     "title": "Coco",
-    "director": "Lee UnkrichAdrian Molina",
+    "rating": "87%",
+    "directors": [
+      "Lee Unkrich",
+      "Adrian Molina"
+    ],
     "actors": [
       "Anthony Gonzalez",
       "Gael García Bernal",
@@ -158,7 +189,10 @@
   },
   {
     "title": "Princezna Mononoke",
-    "director": "Hajao Mijazaki",
+    "rating": "87%",
+    "directors": [
+      "Hajao Mijazaki"
+    ],
     "actors": [
       "Júko Tanaka",
       "Jódži Macuda",
@@ -174,7 +208,10 @@
   },
   {
     "title": "Cesta do fantazie",
-    "director": "Hajao Mijazaki",
+    "rating": "86%",
+    "directors": [
+      "Hajao Mijazaki"
+    ],
     "actors": [
       "Rumi Hiiragi",
       "Takaši Naitó",
@@ -190,7 +227,10 @@
   },
   {
     "title": "Vynález zkázy",
-    "director": "Karel Zeman",
+    "rating": "86%",
+    "directors": [
+      "Karel Zeman"
+    ],
     "actors": [
       "Arnošt Navrátil",
       "Lubor Tokoš",
@@ -205,7 +245,11 @@
   },
   {
     "title": "Jak vycvičit draka",
-    "director": "Chris SandersDean DeBlois",
+    "rating": "86%",
+    "directors": [
+      "Chris Sanders",
+      "Dean DeBlois"
+    ],
     "actors": [
       "Jay Baruchel",
       "Gerard Butler",
@@ -220,7 +264,10 @@
   },
   {
     "title": "Pink Floyd: The Wall",
-    "director": "Alan Parker",
+    "rating": "86%",
+    "directors": [
+      "Alan Parker"
+    ],
     "actors": [
       "Bob Geldof",
       "Bob Hoskins",
@@ -237,7 +284,10 @@
   },
   {
     "title": "Život je krásný",
-    "director": "Frank Capra",
+    "rating": "86%",
+    "directors": [
+      "Frank Capra"
+    ],
     "actors": [
       "James Stewart",
       "Donna Reed",
@@ -253,7 +303,11 @@
   },
   {
     "title": "Ratatouille",
-    "director": "Brad BirdJan Pinkava",
+    "rating": "85%",
+    "directors": [
+      "Brad Bird",
+      "Jan Pinkava"
+    ],
     "actors": [
       "Patton Oswalt",
       "Ian Holm",
@@ -271,7 +325,10 @@
   },
   {
     "title": "Harry Potter a vězeň z Azkabanu",
-    "director": "Alfonso Cuarón",
+    "rating": "85%",
+    "directors": [
+      "Alfonso Cuarón"
+    ],
     "actors": [
       "Daniel Radcliffe",
       "Rupert Grint",
@@ -287,7 +344,10 @@
   },
   {
     "title": "Nekonečný příběh",
-    "director": "Wolfgang Petersen",
+    "rating": "85%",
+    "directors": [
+      "Wolfgang Petersen"
+    ],
     "actors": [
       "Barret Oliver",
       "Noah Hathaway",
@@ -304,7 +364,10 @@
   },
   {
     "title": "Zámek v oblacích",
-    "director": "Hajao Mijazaki",
+    "rating": "85%",
+    "directors": [
+      "Hajao Mijazaki"
+    ],
     "actors": [
       "Takuja Kimura",
       "Čieko Baišó",
