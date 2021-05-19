@@ -31,8 +31,9 @@ class CsfdSpider < Kimurai::Base
     item = {}
 
     item[:title] = @response.xpath("//h1").text.strip
-    item[:year] = @response.xpath("//span[@itemprop='dateCreated']").text.strip
     item[:genres] = @response.xpath("//div[@class='genres']").text.split(' / ')
+    item[:origin] = @response.xpath("//div[@class='origin']").text.split(',').first.split(' / ')
+    item[:year] = @response.xpath("//span[@itemprop='dateCreated']").text.strip
     item[:rating_value] = @response.xpath("//meta[@itemprop='ratingValue']").attribute('content')
     item[:rating_count] = @response.xpath("//meta[@itemprop='ratingCount']").attribute('content')
     item[:review_count] = @response.xpath("//meta[@itemprop='reviewCount']").attribute('content')
@@ -42,15 +43,6 @@ class CsfdSpider < Kimurai::Base
     item[:actors] = loop_data "//h4[.='Hrají: ']/following::span[1]/a | //h4[.='Hrají: ']/following::span[1]/span[1]/a"
     item[:musicians] = loop_data "//h4[.='Hudba: ']/following::span[1]/a"
     item[:producers] = loop_data "//h4[.='Produkce: ']/following::span[1]/a"
-
-    # item[:repo_name] = response.xpath("//h1/strong[@itemprop='name']/a").text
-    # item[:repo_url] = url
-    # item[:description] = response.xpath("//span[@itemprop='about']").text.squish
-    # item[:tags] = response.xpath("//div[@id='topics-list-container']/div/a").map { |a| a.text.squish }
-    # item[:watch_count] = response.xpath("//ul[@class='pagehead-actions']/li[contains(., 'Watch')]/a[2]").text.squish
-    # item[:star_count] = response.xpath("//ul[@class='pagehead-actions']/li[contains(., 'Star')]/a[2]").text.squish
-    # item[:fork_count] = response.xpath("//ul[@class='pagehead-actions']/li[contains(., 'Fork')]/a[2]").text.squish
-    # item[:last_commit] = response.xpath("//span[@itemprop='dateModified']/*").text
 
     save_to "results.json", item, format: :pretty_json
   end
