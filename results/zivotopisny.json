@@ -13,7 +13,9 @@
     "rating_value": "92.332469715006",
     "rating_count": "71405",
     "review_count": "1734",
-    "based_on": "Thomas Keneally",
+    "based_on": [
+      "Thomas Keneally (kniha)"
+    ],
     "directors": [
       "Steven Spielberg"
     ],
@@ -123,10 +125,12 @@
       "Francie"
     ],
     "year": "2011",
-    "rating_value": "91.301652892562",
-    "rating_count": "76472",
+    "rating_value": "91.301766636591",
+    "rating_count": "76473",
     "review_count": "2746",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Eric Toledano",
       "Olivier Nakache"
@@ -189,7 +193,9 @@
     "rating_value": "89.686994063681",
     "rating_count": "22236",
     "review_count": "896",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Mangold"
     ],
@@ -273,7 +279,9 @@
     "rating_value": "89.611591072714",
     "rating_count": "55560",
     "review_count": "2302",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Ron Howard"
     ],
@@ -373,7 +381,9 @@
     "rating_value": "89.086380316772",
     "rating_count": "52593",
     "review_count": "1134",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Miloš Forman"
     ],
@@ -465,7 +475,9 @@
     "rating_value": "89.097638465822",
     "rating_count": "30531",
     "review_count": "760",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "George Roy Hill"
     ],
@@ -522,7 +534,9 @@
     "rating_value": "88.665918663895",
     "rating_count": "54367",
     "review_count": "1112",
-    "based_on": "Sylvia Nasar",
+    "based_on": [
+      "Sylvia Nasar (kniha)"
+    ],
     "directors": [
       "Ron Howard"
     ],
@@ -583,7 +597,9 @@
     "rating_value": "88.636897767333",
     "rating_count": "11914",
     "review_count": "634",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Asif Kapadia"
     ],
@@ -630,7 +646,9 @@
     "rating_value": "88.341827448125",
     "rating_count": "54940",
     "review_count": "1044",
-    "based_on": "Władysław Szpilman",
+    "based_on": [
+      "Władysław Szpilman (kniha)"
+    ],
     "directors": [
       "Roman Polanski"
     ],
@@ -719,7 +737,9 @@
     "rating_value": "88.10609900321",
     "rating_count": "41433",
     "review_count": "1933",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Bryan Singer",
       "Dexter Fletcher"
@@ -781,7 +801,9 @@
     "rating_value": "87.998503123291",
     "rating_count": "69478",
     "review_count": "1281",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Mel Gibson"
     ],
@@ -856,7 +878,9 @@
     "rating_value": "87.588503329828",
     "rating_count": "28530",
     "review_count": "666",
-    "based_on": "Henri Charrière",
+    "based_on": [
+      "Henri Charrière (kniha)"
+    ],
     "directors": [
       "Franklin J. Schaffner"
     ],
@@ -919,7 +943,9 @@
     "rating_value": "87.454903554569",
     "rating_count": "31987",
     "review_count": "974",
-    "based_on": "Nicholas Pileggi",
+    "based_on": [
+      "Nicholas Pileggi (kniha)"
+    ],
     "directors": [
       "Martin Scorsese"
     ],
@@ -1019,7 +1045,9 @@
     "rating_value": "87.028675306398",
     "rating_count": "17053",
     "review_count": "628",
-    "based_on": "Oliver Sacks",
+    "based_on": [
+      "Oliver Sacks (kniha)"
+    ],
     "directors": [
       "Penny Marshall"
     ],
@@ -1078,7 +1106,9 @@
     "rating_value": "86.841696296122",
     "rating_count": "42469",
     "review_count": "540",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Ladislav Smoljak"
     ],
@@ -1195,7 +1225,10 @@
     "rating_value": "86.813638124758",
     "rating_count": "77430",
     "review_count": "1011",
-    "based_on": "Frank Abagnale Jr.Stan Redding",
+    "based_on": [
+      "Frank Abagnale Jr. (kniha)",
+      "Stan Redding (kniha)"
+    ],
     "directors": [
       "Steven Spielberg"
     ],
@@ -1310,7 +1343,9 @@
     "rating_value": "86.791298272664",
     "rating_count": "41509",
     "review_count": "1165",
-    "based_on": "Mark Jacobson",
+    "based_on": [
+      "Mark Jacobson (kniha)"
+    ],
     "directors": [
       "Ridley Scott"
     ],
@@ -1414,7 +1449,9 @@
     "rating_value": "86.66802079948",
     "rating_count": "24616",
     "review_count": "860",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Peter Farrelly"
     ],
@@ -1493,7 +1530,9 @@
     "rating_value": "86.344072081416",
     "rating_count": "30854",
     "review_count": "830",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Terry George"
     ],
@@ -1545,7 +1584,9 @@
     "rating_value": "86.22206943967",
     "rating_count": "5818",
     "review_count": "319",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Malik Bendjelloul"
     ],

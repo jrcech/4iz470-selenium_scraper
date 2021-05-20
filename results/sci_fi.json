@@ -11,10 +11,12 @@
       "Francie"
     ],
     "year": "1991",
-    "rating_value": "90.816666666667",
-    "rating_count": "78000",
+    "rating_value": "90.816902130715",
+    "rating_count": "78002",
     "review_count": "1858",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Cameron"
     ],
@@ -73,10 +75,12 @@
       "USA"
     ],
     "year": "1999",
-    "rating_value": "90.137105675943",
-    "rating_count": "103278",
+    "rating_value": "90.13720117352",
+    "rating_count": "103279",
     "review_count": "2141",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Lilly Wachowski",
       "Lana Wachowski"
@@ -125,10 +129,12 @@
       "Velká Británie"
     ],
     "year": "1979",
-    "rating_value": "89.60589686362",
-    "rating_count": "68104",
+    "rating_value": "89.606049482417",
+    "rating_count": "68105",
     "review_count": "1726",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Ridley Scott"
     ],
@@ -170,10 +176,12 @@
       "Velká Británie"
     ],
     "year": "1986",
-    "rating_value": "89.540821687507",
-    "rating_count": "57102",
+    "rating_value": "89.541004850883",
+    "rating_count": "57103",
     "review_count": "1515",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Cameron"
     ],
@@ -223,10 +231,12 @@
       "USA"
     ],
     "year": "1980",
-    "rating_value": "89.017314493042",
-    "rating_count": "65321",
+    "rating_value": "89.017482624537",
+    "rating_count": "65322",
     "review_count": "1045",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Irvin Kershner"
     ],
@@ -293,10 +303,12 @@
       "USA"
     ],
     "year": "1985",
-    "rating_value": "88.621490925077",
-    "rating_count": "63692",
+    "rating_value": "88.621669571224",
+    "rating_count": "63693",
     "review_count": "1114",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Robert Zemeckis"
     ],
@@ -362,10 +374,12 @@
       "Velká Británie"
     ],
     "year": "2010",
-    "rating_value": "88.592748472713",
-    "rating_count": "93139",
+    "rating_value": "88.592656216448",
+    "rating_count": "93140",
     "review_count": "4061",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Christopher Nolan"
     ],
@@ -430,10 +444,12 @@
       "USA"
     ],
     "year": "1977",
-    "rating_value": "87.757583070635",
-    "rating_count": "66299",
+    "rating_value": "87.757767722474",
+    "rating_count": "66300",
     "review_count": "1213",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "George Lucas"
     ],
@@ -502,10 +518,12 @@
       "Československo"
     ],
     "year": "1955",
-    "rating_value": "87.387636333187",
-    "rating_count": "47769",
+    "rating_value": "87.387900355872",
+    "rating_count": "47770",
     "review_count": "756",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Karel Zeman"
     ],
@@ -540,10 +558,12 @@
       "USA"
     ],
     "year": "2005",
-    "rating_value": "87.312039163544",
-    "rating_count": "66184",
+    "rating_value": "87.312230868021",
+    "rating_count": "66185",
     "review_count": "1513",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "George Lucas"
     ],
@@ -618,10 +638,12 @@
       "USA"
     ],
     "year": "1983",
-    "rating_value": "87.183605741309",
-    "rating_count": "60265",
+    "rating_value": "87.183818405071",
+    "rating_count": "60266",
     "review_count": "923",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Richard Marquand"
     ],
@@ -701,10 +723,12 @@
       "Velká Británie"
     ],
     "year": "1984",
-    "rating_value": "87.070170654342",
-    "rating_count": "69673",
+    "rating_value": "87.070356230445",
+    "rating_count": "69674",
     "review_count": "1263",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Cameron"
     ],
@@ -751,10 +775,12 @@
       "USA"
     ],
     "year": "2004",
-    "rating_value": "86.748562374263",
-    "rating_count": "56169",
+    "rating_value": "86.748442228948",
+    "rating_count": "56170",
     "review_count": "1550",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jonathan Mackye Gruber",
       "Eric Bress"
@@ -806,5 +832,433 @@
       "J.C. Spink"
     ],
     "position": 13
+  },
+  {
+    "title": "12 opic",
+    "genres": [
+      "Mysteriózní",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "origin": [
+      "USA"
+    ],
+    "year": "1995",
+    "rating_value": "86.693333803239",
+    "rating_count": "56749",
+    "review_count": "1367",
+    "based_on": [
+
+    ],
+    "directors": [
+      "Terry Gilliam"
+    ],
+    "scenarists": [
+      "David Webb Peoples",
+      "Janet Peoples",
+      "Chris Marker"
+    ],
+    "actors": [
+      "Bruce Willis",
+      "Madeleine Stowe",
+      "Brad Pitt",
+      "Christopher Plummer",
+      "Jon Seda",
+      "David Morse",
+      "Bill Raymond",
+      "Frank Gorshin",
+      "Chuck Jeffreys",
+      "Matt Ross",
+      "Christopher Meloni",
+      "Stephen Bridgewater",
+      "Richard Stanley",
+      "LisaGay Hamilton",
+      "Joseph McKenna",
+      "Frederick Strother",
+      "Roger Pratt",
+      "Harry O'Toole",
+      "Annie Golden",
+      "Simon Jones",
+      "Allelon Ruggiero",
+      "Thomas Roy",
+      "Bob Adrian",
+      "Raymond Mamrak",
+      "Irma St. Paule",
+      "Charles Techman",
+      "Kevin Thigpen"
+    ],
+    "musicians": [
+      "Paul Buckmaster"
+    ],
+    "producers": [
+      "Mark Egerton",
+      "Charles Roven"
+    ],
+    "position": 14
+  },
+  {
+    "title": "Truman Show",
+    "genres": [
+      "Drama",
+      "Komedie",
+      "Sci-Fi"
+    ],
+    "origin": [
+      "USA"
+    ],
+    "year": "1998",
+    "rating_value": "86.624871074079",
+    "rating_count": "49447",
+    "review_count": "1130",
+    "based_on": [
+
+    ],
+    "directors": [
+      "Peter Weir"
+    ],
+    "scenarists": [
+      "Andrew Niccol"
+    ],
+    "actors": [
+      "Jim Carrey",
+      "Laura Linney",
+      "Ed Harris",
+      "Noah Emmerich",
+      "Natascha McElhone",
+      "Holland Taylor",
+      "Peter Krause",
+      "Antoni Corone",
+      "Paul Giamatti",
+      "Harry Shearer",
+      "Philip Baker Hall",
+      "Brian Delate",
+      "Saemi Nakamura",
+      "Philip Glass",
+      "Marcia DeBonis",
+      "O-Lan Jones",
+      "Marc Macaulay",
+      "Júdži Okumoto",
+      "Kevin D. Ross",
+      "Susan Angelo",
+      "Heidi Schanz",
+      "Marco Rubeo",
+      "Joel McKinnon Miller",
+      "Sergio Kato",
+      "Jeanette Miller",
+      "Terry Camilleri",
+      "Dona Hardy",
+      "Judson Vaughn",
+      "John Roselius",
+      "Una Damon",
+      "Joe Minjares",
+      "Zoaunne LeRoy",
+      "Jake Eberle",
+      "Mal Jones",
+      "Michael J. McAlister"
+    ],
+    "musicians": [
+      "Burkhard von Dallwitz"
+    ],
+    "producers": [
+      "Scott Rudin",
+      "Edward S. Feldman",
+      "Andrew Niccol",
+      "Adam Schroeder"
+    ],
+    "position": 15
+  },
+  {
+    "title": "Predátor",
+    "genres": [
+      "Akční",
+      "Sci-Fi",
+      "Horor"
+    ],
+    "origin": [
+      "USA"
+    ],
+    "year": "1987",
+    "rating_value": "86.46508097166",
+    "rating_count": "55328",
+    "review_count": "1422",
+    "based_on": [
+
+    ],
+    "directors": [
+      "John McTiernan"
+    ],
+    "scenarists": [
+      "Jim Thomas",
+      "John Thomas"
+    ],
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Carl Weathers",
+      "Elpidia Carrillo",
+      "Bill Duke",
+      "Jesse Ventura",
+      "Sonny Landham",
+      "Richard Chaves",
+      "R.G. Armstrong",
+      "Shane Black",
+      "Kevin Peter Hall",
+      "Sven-Ole Thorsen",
+      "Henry Kingi"
+    ],
+    "musicians": [
+      "Alan Silvestri"
+    ],
+    "producers": [
+      "John Davis",
+      "Lawrence Gordon",
+      "Joel Silver"
+    ],
+    "position": 16
+  },
+  {
+    "title": "Vynález zkázy",
+    "genres": [
+      "Dobrodružný",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "origin": [
+      "Československo"
+    ],
+    "year": "1958",
+    "rating_value": "86.305565932013",
+    "rating_count": "18739",
+    "review_count": "376",
+    "based_on": [
+      "Jules Verne (kniha)"
+    ],
+    "directors": [
+      "Karel Zeman"
+    ],
+    "scenarists": [
+      "František Hrubín"
+    ],
+    "actors": [
+      "Arnošt Navrátil",
+      "Lubor Tokoš",
+      "František Šlégr",
+      "Miloslav Holub",
+      "Václav Kyzlink",
+      "Jana Zatloukalová",
+      "Felix le Breux",
+      "Otto Šimánek",
+      "Alena Kreuzmannová",
+      "František Řehák"
+    ],
+    "musicians": [
+      "Zdeněk Liška"
+    ],
+    "producers": [
+
+    ],
+    "position": 17
+  },
+  {
+    "title": "Na hraně zítřka",
+    "genres": [
+      "Sci-Fi",
+      "Akční",
+      "Dobrodružný"
+    ],
+    "origin": [
+      "USA",
+      "Kanada"
+    ],
+    "year": "2014",
+    "rating_value": "86.10596447888",
+    "rating_count": "53433",
+    "review_count": "2274",
+    "based_on": [
+      "Hiroši Sakurazaka (kniha)"
+    ],
+    "directors": [
+      "Doug Liman"
+    ],
+    "scenarists": [
+      "Christopher McQuarrie",
+      "Jez Butterworth",
+      "John-Henry Butterworth"
+    ],
+    "actors": [
+      "Tom Cruise",
+      "Emily Blunt",
+      "Bill Paxton",
+      "Brendan Gleeson",
+      "Noah Taylor",
+      "Kick Gurry",
+      "Dragomir Mrsic",
+      "Charlotte Riley",
+      "Jonas Armstrong",
+      "Franz Drameh",
+      "Tony Way",
+      "Jeremy Piven",
+      "Lara Pulver",
+      "Marianne Jean-Baptiste",
+      "Lee Asquith-Coe",
+      "Madeleine Mantock",
+      "Jd Roth-round",
+      "Michael Vardian",
+      "Jim Sturgeon",
+      "Jozef Aoki",
+      "Elaine Caulfield",
+      "Bentley Kalu",
+      "Martin McDougall",
+      "Tommy Campbell",
+      "François Hollande",
+      "Harry Landis",
+      "Andrew Neil",
+      "Beth Goddard",
+      "Masayoshi Haneda",
+      "Ronan Summers",
+      "Matt Hookings",
+      "Pablo Verdejo",
+      "Daniel Stisen"
+    ],
+    "musicians": [
+      "Christophe Beck",
+      "Leo Birenberg"
+    ],
+    "producers": [
+      "Jeffrey Silver",
+      "Erwin Stoff",
+      "Gregory Jacobs"
+    ],
+    "position": 18
+  },
+  {
+    "title": "Návrat do budoucnosti II",
+    "genres": [
+      "Dobrodružný",
+      "Komedie",
+      "Sci-Fi",
+      "Akční"
+    ],
+    "origin": [
+      "USA"
+    ],
+    "year": "1989",
+    "rating_value": "85.775074643371",
+    "rating_count": "45215",
+    "review_count": "715",
+    "based_on": [
+
+    ],
+    "directors": [
+      "Robert Zemeckis"
+    ],
+    "scenarists": [
+      "Bob Gale"
+    ],
+    "actors": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Thomas F. Wilson",
+      "Elisabeth Shue",
+      "James Tolkan",
+      "Jeffrey Weissman",
+      "Casey Siemaszko",
+      "Billy Zane",
+      "J.J. Cohen",
+      "Charles Fleischer",
+      "Darlene Vogel",
+      "Jason Scott Lee",
+      "Elijah Wood",
+      "Flea",
+      "Tracy Dali",
+      "Joe Flaherty",
+      "Mary Ellen Trainor",
+      "Al White",
+      "Lisa Freeman",
+      "George 'Buck' Flower",
+      "Ricky Dean Logan",
+      "Wesley Mann",
+      "Jim Ishida",
+      "Donald Fullilove"
+    ],
+    "musicians": [
+      "Alan Silvestri"
+    ],
+    "producers": [
+      "Steven Spielberg",
+      "Neil Canton",
+      "Bob Gale"
+    ],
+    "position": 19
+  },
+  {
+    "title": "Svět podle Prota",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "origin": [
+      "USA",
+      "Německo"
+    ],
+    "year": "2001",
+    "rating_value": "85.728830202331",
+    "rating_count": "38699",
+    "review_count": "1088",
+    "based_on": [
+      "Gene Brewer (kniha)"
+    ],
+    "directors": [
+      "Iain Softley"
+    ],
+    "scenarists": [
+      "Charles Leavitt"
+    ],
+    "actors": [
+      "Kevin Spacey",
+      "Jeff Bridges",
+      "Mary McCormack",
+      "Alfre Woodard",
+      "David Patrick Kelly",
+      "Saul Williams",
+      "Peter Gerety",
+      "Celia Weston",
+      "Ajay Naidu",
+      "Tracy Vilar",
+      "Kimberly Scott",
+      "Conchata Ferrell",
+      "Vincent Laresca",
+      "Brian Howe",
+      "Rawle D. Lewis",
+      "Julie Sands",
+      "Aaron Paul",
+      "William Lucking",
+      "Kateri Walker",
+      "Frank Collison",
+      "Mark Christopher Lawrence",
+      "Clarke Peters",
+      "Norman Alden",
+      "Erik LaRay Harvey",
+      "Lance E. Nichols",
+      "Mary Mara",
+      "Peter Maloney",
+      "Paul Linke",
+      "Olga Merediz",
+      "John Toles-Bey",
+      "Greg Lewis",
+      "Anne Carroll",
+      "Clebert Ford",
+      "Joe Holt",
+      "Scott Lincoln"
+    ],
+    "musicians": [
+      "Edward Shearmur"
+    ],
+    "producers": [
+      "Lawrence Gordon",
+      "Robert F. Colesberry",
+      "Lloyd Levin"
+    ],
+    "position": 20
   }
 ]

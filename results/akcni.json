@@ -11,10 +11,12 @@
       "Francie"
     ],
     "year": "1991",
-    "rating_value": "90.816666666667",
-    "rating_count": "78000",
+    "rating_value": "90.816902130715",
+    "rating_count": "78002",
     "review_count": "1858",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Cameron"
     ],
@@ -75,10 +77,12 @@
       "Nový Zéland"
     ],
     "year": "2001",
-    "rating_value": "90.483813321796",
-    "rating_count": "106322",
+    "rating_value": "90.484090930467",
+    "rating_count": "106323",
     "review_count": "1919",
-    "based_on": "John Ronald Reuel Tolkien",
+    "based_on": [
+      "John Ronald Reuel Tolkien (kniha)"
+    ],
     "directors": [
       "Peter Jackson"
     ],
@@ -148,10 +152,12 @@
       "Nový Zéland"
     ],
     "year": "2003",
-    "rating_value": "90.409525929223",
-    "rating_count": "98846",
+    "rating_value": "90.409825285542",
+    "rating_count": "98847",
     "review_count": "1600",
-    "based_on": "John Ronald Reuel Tolkien",
+    "based_on": [
+      "John Ronald Reuel Tolkien (kniha)"
+    ],
     "directors": [
       "Peter Jackson"
     ],
@@ -229,10 +235,13 @@
       "Velká Británie"
     ],
     "year": "2008",
-    "rating_value": "90.28785206563",
-    "rating_count": "93555",
+    "rating_value": "90.287955876694",
+    "rating_count": "93556",
     "review_count": "3812",
-    "based_on": "Bob KaneBill Finger",
+    "based_on": [
+      "Bob Kane (komiks)",
+      "Bill Finger (komiks)"
+    ],
     "directors": [
       "Christopher Nolan"
     ],
@@ -324,10 +333,12 @@
       "USA"
     ],
     "year": "1999",
-    "rating_value": "90.137105675943",
-    "rating_count": "103278",
+    "rating_value": "90.13720117352",
+    "rating_count": "103279",
     "review_count": "2141",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Lilly Wachowski",
       "Lana Wachowski"
@@ -378,7 +389,9 @@
     "rating_value": "89.911959868735",
     "rating_count": "69173",
     "review_count": "949",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Steven Spielberg"
     ],
@@ -441,7 +454,9 @@
     "rating_value": "89.884549146344",
     "rating_count": "47033",
     "review_count": "900",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "John Sturges"
     ],
@@ -505,7 +520,9 @@
     "rating_value": "89.686994063681",
     "rating_count": "22236",
     "review_count": "896",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Mangold"
     ],
@@ -589,7 +606,9 @@
     "rating_value": "89.611591072714",
     "rating_count": "55560",
     "review_count": "2302",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Ron Howard"
     ],
@@ -686,10 +705,12 @@
       "USA"
     ],
     "year": "1989",
-    "rating_value": "89.548327032669",
-    "rating_count": "70892",
+    "rating_value": "89.548474461512",
+    "rating_count": "70893",
     "review_count": "928",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Steven Spielberg"
     ],
@@ -747,10 +768,12 @@
       "Velká Británie"
     ],
     "year": "1986",
-    "rating_value": "89.540821687507",
-    "rating_count": "57102",
+    "rating_value": "89.541004850883",
+    "rating_count": "57103",
     "review_count": "1515",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Cameron"
     ],
@@ -798,10 +821,12 @@
       "USA"
     ],
     "year": "1988",
-    "rating_value": "89.465049069781",
-    "rating_count": "66436",
+    "rating_value": "89.465207640321",
+    "rating_count": "66437",
     "review_count": "1254",
-    "based_on": "Roderick Thorp",
+    "based_on": [
+      "Roderick Thorp (kniha)"
+    ],
     "directors": [
       "John McTiernan"
     ],
@@ -864,7 +889,9 @@
     "rating_value": "89.017314493042",
     "rating_count": "65321",
     "review_count": "1045",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Irvin Kershner"
     ],
@@ -934,10 +961,12 @@
       "Velká Británie"
     ],
     "year": "2010",
-    "rating_value": "88.592748472713",
-    "rating_count": "93139",
+    "rating_value": "88.592656216448",
+    "rating_count": "93140",
     "review_count": "4061",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Christopher Nolan"
     ],
@@ -1005,7 +1034,9 @@
     "rating_value": "88.474302069938",
     "rating_count": "96428",
     "review_count": "1232",
-    "based_on": "John Ronald Reuel Tolkien",
+    "based_on": [
+      "John Ronald Reuel Tolkien (kniha)"
+    ],
     "directors": [
       "Peter Jackson"
     ],
@@ -1082,7 +1113,9 @@
     "rating_value": "88.385065120259",
     "rating_count": "84152",
     "review_count": "1575",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Ridley Scott"
     ],
@@ -1146,7 +1179,9 @@
     "rating_value": "88.170841481206",
     "rating_count": "32217",
     "review_count": "1347",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Michael Mann"
     ],
@@ -1224,7 +1259,9 @@
     "rating_value": "87.801448823804",
     "rating_count": "51352",
     "review_count": "753",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Richard Donner"
     ],
@@ -1288,7 +1325,9 @@
     "rating_value": "87.757583070635",
     "rating_count": "66299",
     "review_count": "1213",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "George Lucas"
     ],
@@ -1361,7 +1400,9 @@
     "rating_value": "87.349381566698",
     "rating_count": "52633",
     "review_count": "1426",
-    "based_on": "Robert Ludlum",
+    "based_on": [
+      "Robert Ludlum (kniha)"
+    ],
     "directors": [
       "Paul Greengrass"
     ],

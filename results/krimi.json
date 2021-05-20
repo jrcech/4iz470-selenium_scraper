@@ -9,10 +9,12 @@
       "USA"
     ],
     "year": "1994",
-    "rating_value": "95.308009754267",
-    "rating_count": "106620",
+    "rating_value": "95.308053760516",
+    "rating_count": "106621",
     "review_count": "3189",
-    "based_on": "Stephen King",
+    "based_on": [
+      "Stephen King (povídka)"
+    ],
     "directors": [
       "Frank Darabont"
     ],
@@ -71,10 +73,12 @@
       "USA"
     ],
     "year": "1999",
-    "rating_value": "92.853990189559",
-    "rating_count": "103767",
+    "rating_value": "92.854059054815",
+    "rating_count": "103768",
     "review_count": "1855",
-    "based_on": "Stephen King",
+    "based_on": [
+      "Stephen King (kniha)"
+    ],
     "directors": [
       "Frank Darabont"
     ],
@@ -134,10 +138,12 @@
       "USA"
     ],
     "year": "1995",
-    "rating_value": "92.368721092826",
-    "rating_count": "92970",
+    "rating_value": "92.368885255776",
+    "rating_count": "92972",
     "review_count": "2279",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "David Fincher"
     ],
@@ -204,10 +210,12 @@
       "USA"
     ],
     "year": "1972",
-    "rating_value": "91.807736903131",
-    "rating_count": "66409",
+    "rating_value": "91.807860262009",
+    "rating_count": "66410",
     "review_count": "2017",
-    "based_on": "Mario Puzo",
+    "based_on": [
+      "Mario Puzo (kniha)"
+    ],
     "directors": [
       "Francis Ford Coppola"
     ],
@@ -291,7 +299,9 @@
     "rating_value": "91.366986510916",
     "rating_count": "35955",
     "review_count": "1638",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Sidney Lumet"
     ],
@@ -335,10 +345,12 @@
       "USA"
     ],
     "year": "1974",
-    "rating_value": "90.799317892374",
-    "rating_count": "46327",
+    "rating_value": "90.799516491107",
+    "rating_count": "46328",
     "review_count": "974",
-    "based_on": "Mario Puzo",
+    "based_on": [
+      "Mario Puzo (kniha)"
+    ],
     "directors": [
       "Francis Ford Coppola"
     ],
@@ -421,10 +433,12 @@
       "USA"
     ],
     "year": "1994",
-    "rating_value": "90.681938325991",
-    "rating_count": "102150",
+    "rating_value": "90.682029544498",
+    "rating_count": "102151",
     "review_count": "2839",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Quentin Tarantino"
     ],
@@ -494,10 +508,12 @@
       "USA"
     ],
     "year": "1991",
-    "rating_value": "90.470862816286",
-    "rating_count": "80979",
+    "rating_value": "90.47098048901",
+    "rating_count": "80980",
     "review_count": "1338",
-    "based_on": "Thomas Harris",
+    "based_on": [
+      "Thomas Harris (kniha)"
+    ],
     "directors": [
       "Jonathan Demme"
     ],
@@ -569,10 +585,13 @@
       "Velká Británie"
     ],
     "year": "2008",
-    "rating_value": "90.28785206563",
-    "rating_count": "93555",
+    "rating_value": "90.287955876694",
+    "rating_count": "93556",
     "review_count": "3812",
-    "based_on": "Bob KaneBill Finger",
+    "based_on": [
+      "Bob Kane (komiks)",
+      "Bill Finger (komiks)"
+    ],
     "directors": [
       "Christopher Nolan"
     ],
@@ -668,7 +687,9 @@
     "rating_value": "89.597328124015",
     "rating_count": "31738",
     "review_count": "896",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "George Roy Hill"
     ],
@@ -746,7 +767,9 @@
     "rating_value": "89.265861419573",
     "rating_count": "61596",
     "review_count": "1443",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Luc Besson"
     ],
@@ -804,7 +827,9 @@
     "rating_value": "89.097638465822",
     "rating_count": "30531",
     "review_count": "760",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "George Roy Hill"
     ],
@@ -863,7 +888,9 @@
     "rating_value": "89.029695479478",
     "rating_count": "37009",
     "review_count": "1134",
-    "based_on": "James Ellroy",
+    "based_on": [
+      "James Ellroy (kniha)"
+    ],
     "directors": [
       "Curtis Hanson"
     ],
@@ -941,7 +968,9 @@
     "rating_value": "88.805096418733",
     "rating_count": "40656",
     "review_count": "945",
-    "based_on": "Paulo Lins",
+    "based_on": [
+      "Paulo Lins (kniha)"
+    ],
     "directors": [
       "Fernando Meirelles",
       "Kátia Lund"
@@ -992,10 +1021,12 @@
       "Francie"
     ],
     "year": "1995",
-    "rating_value": "88.277305897835",
-    "rating_count": "33436",
+    "rating_value": "88.276460208751",
+    "rating_count": "33437",
     "review_count": "1012",
-    "based_on": "Nicholas Pileggi",
+    "based_on": [
+      "Nicholas Pileggi (kniha)"
+    ],
     "directors": [
       "Martin Scorsese"
     ],
@@ -1082,7 +1113,9 @@
     "rating_value": "88.170841481206",
     "rating_count": "32217",
     "review_count": "1347",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Michael Mann"
     ],
@@ -1159,7 +1192,9 @@
     "rating_value": "88.145687171965",
     "rating_count": "56587",
     "review_count": "1305",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Tony Kaye"
     ],
@@ -1214,7 +1249,9 @@
     "rating_value": "87.801448823804",
     "rating_count": "51352",
     "review_count": "753",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Richard Donner"
     ],
@@ -1278,7 +1315,9 @@
     "rating_value": "87.668796262419",
     "rating_count": "35531",
     "review_count": "708",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Billy Wilder"
     ],
@@ -1365,7 +1404,9 @@
     "rating_value": "87.639755314639",
     "rating_count": "33022",
     "review_count": "1244",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Bryan Singer"
     ],

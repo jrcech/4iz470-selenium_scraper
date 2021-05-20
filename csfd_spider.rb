@@ -95,9 +95,10 @@ class CsfdSpider < Kimurai::Base
       .attribute('content')
 
     item[:based_on] = @response
-      .xpath("//h4[.='Předloha: ']/following::span[1]/a")
+      .xpath("//h4[.='Předloha: ']/following::span[1]")
       .text
-      .strip
+      .squish
+      .split(', ')
 
     item[:directors] = loop_to_array(
       "//h4[.='Režie: ']/following::span[1]/a | " +
@@ -124,7 +125,11 @@ class CsfdSpider < Kimurai::Base
         "//h4[.='Produkce: ']/following::span[1]/span[1]/a"
     )
 
-    save_to "results/#{I18n.transliterate(data).underscore}.json", item, format: :pretty_json
+    save_to(
+      "results/#{I18n.transliterate(data).underscore}.json",
+      item,
+      format: :pretty_json
+    )
   end
 
   def loop_to_array(xpath)

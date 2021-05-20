@@ -10,10 +10,12 @@
       "USA"
     ],
     "year": "1968",
-    "rating_value": "90.553891035244",
-    "rating_count": "50732",
+    "rating_value": "90.55407722784",
+    "rating_count": "50733",
     "review_count": "1708",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Sergio Leone"
     ],
@@ -81,7 +83,9 @@
     "rating_value": "90.021641898716",
     "rating_count": "34655",
     "review_count": "1362",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Sergio Leone"
     ],
@@ -156,7 +160,9 @@
     "rating_value": "89.884549146344",
     "rating_count": "47033",
     "review_count": "900",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "John Sturges"
     ],
@@ -219,7 +225,9 @@
     "rating_value": "89.097638465822",
     "rating_count": "30531",
     "review_count": "760",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "George Roy Hill"
     ],
@@ -278,7 +286,9 @@
     "rating_value": "88.533470914485",
     "rating_count": "46518",
     "review_count": "822",
-    "based_on": "Michael Blake",
+    "based_on": [
+      "Michael Blake (kniha)"
+    ],
     "directors": [
       "Kevin Costner"
     ],
@@ -329,10 +339,12 @@
       "USA"
     ],
     "year": "2012",
-    "rating_value": "87.947462345635",
-    "rating_count": "70045",
+    "rating_value": "87.947235427641",
+    "rating_count": "70047",
     "review_count": "3144",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Quentin Tarantino"
     ],
@@ -442,7 +454,9 @@
     "rating_value": "86.352559870356",
     "rating_count": "16661",
     "review_count": "536",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Sergio Leone"
     ],
@@ -517,7 +531,9 @@
     "rating_value": "86.010667396061",
     "rating_count": "43872",
     "review_count": "662",
-    "based_on": "Jiří Brdečka",
+    "based_on": [
+      "Jiří Brdečka (kniha)"
+    ],
     "directors": [
       "Oldřich Lipský"
     ],
@@ -606,7 +622,9 @@
     "rating_value": "85.216348696971",
     "rating_count": "28357",
     "review_count": "546",
-    "based_on": "Karl May",
+    "based_on": [
+      "Karl May (kniha)"
+    ],
     "directors": [
       "Harald Reinl"
     ],
@@ -661,10 +679,12 @@
       "USA"
     ],
     "year": "1990",
-    "rating_value": "85.04581716257",
-    "rating_count": "37104",
+    "rating_value": "85.046220185959",
+    "rating_count": "37105",
     "review_count": "620",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Robert Zemeckis"
     ],
@@ -727,7 +747,9 @@
     "rating_value": "84.996022275259",
     "rating_count": "12570",
     "review_count": "372",
-    "based_on": "Thomas Berger",
+    "based_on": [
+      "Thomas Berger (kniha)"
+    ],
     "directors": [
       "Arthur Penn"
     ],
@@ -785,7 +807,9 @@
     "rating_value": "85.115825408437",
     "rating_count": "4101",
     "review_count": "292",
-    "based_on": "Donald Hamilton",
+    "based_on": [
+      "Donald Hamilton (kniha)"
+    ],
     "directors": [
       "William Wyler"
     ],
@@ -841,7 +865,9 @@
     "rating_value": "84.783110823671",
     "rating_count": "21647",
     "review_count": "479",
-    "based_on": "Karl May",
+    "based_on": [
+      "Karl May (kniha)"
+    ],
     "directors": [
       "Harald Reinl"
     ],
@@ -907,7 +933,9 @@
     "rating_value": "84.681859021482",
     "rating_count": "12243",
     "review_count": "440",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Enzo Barboni"
     ],
@@ -975,7 +1003,9 @@
     "rating_value": "85.099557522124",
     "rating_count": "1808",
     "review_count": "148",
-    "based_on": "B. Traven",
+    "based_on": [
+      "B. Traven (kniha)"
+    ],
     "directors": [
       "John Huston"
     ],
@@ -1027,10 +1057,12 @@
       "USA"
     ],
     "year": "1992",
-    "rating_value": "84.2085220931",
-    "rating_count": "15231",
+    "rating_value": "84.208245798319",
+    "rating_count": "15232",
     "review_count": "696",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Clint Eastwood"
     ],
@@ -1085,7 +1117,9 @@
     "rating_value": "83.984881209503",
     "rating_count": "3704",
     "review_count": "258",
-    "based_on": "Vardis Fisher",
+    "based_on": [
+      "Vardis Fisher (kniha)"
+    ],
     "directors": [
       "Sydney Pollack"
     ],
@@ -1134,7 +1168,9 @@
     "rating_value": "83.6850835779",
     "rating_count": "15674",
     "review_count": "664",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jim Jarmusch"
     ],
@@ -1186,7 +1222,9 @@
     "rating_value": "83.669193424751",
     "rating_count": "11741",
     "review_count": "550",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Sergio Leone"
     ],
@@ -1254,7 +1292,9 @@
     "rating_value": "83.750901659053",
     "rating_count": "4159",
     "review_count": "224",
-    "based_on": "Elmore Leonard",
+    "based_on": [
+      "Elmore Leonard (kniha)"
+    ],
     "directors": [
       "Martin Ritt"
     ],

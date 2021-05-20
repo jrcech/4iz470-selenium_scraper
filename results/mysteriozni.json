@@ -10,10 +10,12 @@
       "USA"
     ],
     "year": "1999",
-    "rating_value": "92.853990189559",
-    "rating_count": "103767",
+    "rating_value": "92.854059054815",
+    "rating_count": "103768",
     "review_count": "1855",
-    "based_on": "Stephen King",
+    "based_on": [
+      "Stephen King (kniha)"
+    ],
     "directors": [
       "Frank Darabont"
     ],
@@ -73,10 +75,12 @@
       "USA"
     ],
     "year": "1995",
-    "rating_value": "92.368721092826",
-    "rating_count": "92970",
+    "rating_value": "92.368885255776",
+    "rating_count": "92972",
     "review_count": "2279",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "David Fincher"
     ],
@@ -148,7 +152,9 @@
     "rating_value": "89.029695479478",
     "rating_count": "37009",
     "review_count": "1134",
-    "based_on": "James Ellroy",
+    "based_on": [
+      "James Ellroy (kniha)"
+    ],
     "directors": [
       "Curtis Hanson"
     ],
@@ -226,10 +232,12 @@
       "Velká Británie"
     ],
     "year": "2010",
-    "rating_value": "88.592748472713",
-    "rating_count": "93139",
+    "rating_value": "88.592656216448",
+    "rating_count": "93140",
     "review_count": "4061",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Christopher Nolan"
     ],
@@ -297,7 +305,9 @@
     "rating_value": "88.133186267751",
     "rating_count": "72530",
     "review_count": "1261",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "M. Night Shyamalan"
     ],
@@ -349,7 +359,9 @@
     "rating_value": "87.961689323518",
     "rating_count": "74444",
     "review_count": "2518",
-    "based_on": "Dennis Lehane",
+    "based_on": [
+      "Dennis Lehane (kniha)"
+    ],
     "directors": [
       "Martin Scorsese"
     ],
@@ -436,7 +448,9 @@
     "rating_value": "87.824379796538",
     "rating_count": "33618",
     "review_count": "1117",
-    "based_on": "Robert Bloch",
+    "based_on": [
+      "Robert Bloch (kniha)"
+    ],
     "directors": [
       "Alfred Hitchcock"
     ],
@@ -491,7 +505,9 @@
     "rating_value": "87.796198408885",
     "rating_count": "74916",
     "review_count": "2085",
-    "based_on": "Christopher Priest",
+    "based_on": [
+      "Christopher Priest (kniha)"
+    ],
     "directors": [
       "Christopher Nolan"
     ],
@@ -552,7 +568,9 @@
     "rating_value": "87.639755314639",
     "rating_count": "33022",
     "review_count": "1244",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Bryan Singer"
     ],
@@ -604,10 +622,12 @@
       "USA"
     ],
     "year": "2004",
-    "rating_value": "86.748562374263",
-    "rating_count": "56169",
+    "rating_value": "86.748442228948",
+    "rating_count": "56170",
     "review_count": "1550",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jonathan Mackye Gruber",
       "Eric Bress"
@@ -671,10 +691,12 @@
       "USA"
     ],
     "year": "1995",
-    "rating_value": "86.693804186932",
-    "rating_count": "56748",
+    "rating_value": "86.693333803239",
+    "rating_count": "56749",
     "review_count": "1367",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Terry Gilliam"
     ],
@@ -735,7 +757,9 @@
     "rating_value": "86.498793727382",
     "rating_count": "46424",
     "review_count": "1480",
-    "based_on": "Jonathan Nolan",
+    "based_on": [
+      "Jonathan Nolan (povídka)"
+    ],
     "directors": [
       "Christopher Nolan"
     ],
@@ -778,7 +802,9 @@
     "rating_value": "86.036900369004",
     "rating_count": "42005",
     "review_count": "1301",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "David Fincher"
     ],
@@ -838,10 +864,12 @@
       "USA"
     ],
     "year": "1954",
-    "rating_value": "85.776682868367",
-    "rating_count": "15019",
+    "rating_value": "85.778576659344",
+    "rating_count": "15021",
     "review_count": "652",
-    "based_on": "Cornell Woolrich",
+    "based_on": [
+      "Cornell Woolrich (povídka)"
+    ],
     "directors": [
       "Alfred Hitchcock"
     ],
@@ -905,7 +933,9 @@
     "rating_value": "85.682724762197",
     "rating_count": "39108",
     "review_count": "1706",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Denis Villeneuve"
     ],
@@ -972,7 +1002,9 @@
     "rating_value": "85.55954874791",
     "rating_count": "52033",
     "review_count": "1100",
-    "based_on": "Robert Ludlum",
+    "based_on": [
+      "Robert Ludlum (kniha)"
+    ],
     "directors": [
       "Doug Liman"
     ],
@@ -1033,10 +1065,12 @@
       "USA"
     ],
     "year": "2004",
-    "rating_value": "85.340563614479",
-    "rating_count": "80587",
+    "rating_value": "85.340745520425",
+    "rating_count": "80588",
     "review_count": "1251",
-    "based_on": "J. K. Rowling",
+    "based_on": [
+      "J. K. Rowling (kniha)"
+    ],
     "directors": [
       "Alfonso Cuarón"
     ],
@@ -1109,10 +1143,12 @@
       "USA"
     ],
     "year": "1982",
-    "rating_value": "85.315594435332",
-    "rating_count": "32922",
+    "rating_value": "85.316486453651",
+    "rating_count": "32924",
     "review_count": "1471",
-    "based_on": "John Wood Campbell jr.",
+    "based_on": [
+      "John Wood Campbell jr. (povídka)"
+    ],
     "directors": [
       "John Carpenter"
     ],
@@ -1163,7 +1199,9 @@
     "rating_value": "85.036745678501",
     "rating_count": "9661",
     "review_count": "532",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Alfred Hitchcock"
     ],
@@ -1277,7 +1315,9 @@
     "rating_value": "85.351283129996",
     "rating_count": "2377",
     "review_count": "201",
-    "based_on": "Agatha Christie",
+    "based_on": [
+      "Agatha Christie (povídka)"
+    ],
     "directors": [
       "Billy Wilder"
     ],

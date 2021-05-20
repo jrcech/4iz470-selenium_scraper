@@ -14,7 +14,9 @@
     "rating_value": "84.959783423387",
     "rating_count": "89391",
     "review_count": "1904",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Cameron"
     ],
@@ -106,7 +108,11 @@
     "rating_value": "84.86425582144",
     "rating_count": "18638",
     "review_count": "524",
-    "based_on": "Richard Martin SternThomas N. ScortiaFrank M. Robinson",
+    "based_on": [
+      "Richard Martin Stern (kniha)",
+      "Thomas N. Scortia (kniha)",
+      "Frank M. Robinson (kniha)"
+    ],
     "directors": [
       "John Guillermin"
     ],
@@ -173,7 +179,9 @@
     "rating_value": "80.503992246273",
     "rating_count": "21667",
     "review_count": "1040",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "J.A. Bayona"
     ],
@@ -235,7 +243,9 @@
     "rating_value": "79.195322288737",
     "rating_count": "7183",
     "review_count": "226",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Ronald Neame",
       "Irwin Allen"
@@ -296,7 +306,9 @@
     "rating_value": "77.198166072338",
     "rating_count": "1963",
     "review_count": "192",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Robert Wise"
     ],
@@ -363,7 +375,9 @@
     "rating_value": "77.51724137931",
     "rating_count": "435",
     "review_count": "55",
-    "based_on": "Walter Lord",
+    "based_on": [
+      "Walter Lord (kniha)"
+    ],
     "directors": [
       "Roy Ward Baker"
     ],
@@ -495,7 +509,9 @@
     "rating_value": "75.837797518139",
     "rating_count": "14747",
     "review_count": "559",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Peter Berg"
     ],
@@ -556,7 +572,9 @@
     "rating_value": "76.153846153846",
     "rating_count": "26",
     "review_count": "2",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Yves Ciampi"
     ],
@@ -595,7 +613,9 @@
     "rating_value": "68.341478009375",
     "rating_count": "10027",
     "review_count": "304",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jan de Bont"
     ],
@@ -657,7 +677,9 @@
     "rating_value": "66.978990581985",
     "rating_count": "4141",
     "review_count": "142",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Patricia Riggen"
     ],
@@ -725,7 +747,9 @@
     "rating_value": "66.315228966986",
     "rating_count": "1878",
     "review_count": "149",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Roar Uthaug"
     ],
@@ -773,7 +797,9 @@
     "rating_value": "66.50406504065",
     "rating_count": "246",
     "review_count": "30",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Renzo Martinelli"
     ],
@@ -822,7 +848,9 @@
     "rating_value": "65.705583756345",
     "rating_count": "3940",
     "review_count": "244",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Ric Roman Waugh"
     ],
@@ -890,7 +918,9 @@
     "rating_value": "65.605144553149",
     "rating_count": "36388",
     "review_count": "878",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Roland Emmerich"
     ],
@@ -974,7 +1004,9 @@
     "rating_value": "67.826086956522",
     "rating_count": "23",
     "review_count": "1",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Nikolaj Chomeriki"
     ],
@@ -1025,7 +1057,9 @@
     "rating_value": "64.125809435708",
     "rating_count": "1081",
     "review_count": "76",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Mark Robson"
     ],
@@ -1120,7 +1154,9 @@
     "rating_value": "63.265306122449",
     "rating_count": "49",
     "review_count": "6",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Širó Moritani"
     ],
@@ -1172,7 +1208,9 @@
     "rating_value": "63.414634146341",
     "rating_count": "123",
     "review_count": "19",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Dante Lam"
     ],
@@ -1219,7 +1257,9 @@
     "rating_value": "63.647536231884",
     "rating_count": "17250",
     "review_count": "396",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Mimi Leder"
     ],
@@ -1301,7 +1341,9 @@
     "rating_value": "62.907488986784",
     "rating_count": "227",
     "review_count": "25",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jeong-woo Park"
     ],

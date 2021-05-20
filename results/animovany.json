@@ -14,7 +14,10 @@
     "rating_value": "87.737645247095",
     "rating_count": "28572",
     "review_count": "503",
-    "based_on": "René GoscinnyAlbert Uderzo",
+    "based_on": [
+      "René Goscinny (komiks)",
+      "Albert Uderzo (komiks)"
+    ],
     "directors": [
       "René Goscinny",
       "Albert Uderzo",
@@ -72,7 +75,9 @@
     "rating_value": "87.547275528786",
     "rating_count": "7139",
     "review_count": "285",
-    "based_on": "Sergio Pablos",
+    "based_on": [
+      "Sergio Pablos (povídka)"
+    ],
     "directors": [
       "Sergio Pablos"
     ],
@@ -129,7 +134,9 @@
     "rating_value": "87.289694062198",
     "rating_count": "95052",
     "review_count": "950",
-    "based_on": "William Steig",
+    "based_on": [
+      "William Steig (kniha)"
+    ],
     "directors": [
       "Vicky Jenson",
       "Andrew Adamson"
@@ -188,7 +195,9 @@
     "rating_value": "87.169671752196",
     "rating_count": "21630",
     "review_count": "703",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Lee Unkrich",
       "Adrian Molina"
@@ -235,7 +244,9 @@
     "rating_value": "86.894805382723",
     "rating_count": "27644",
     "review_count": "882",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Hajao Mijazaki"
     ],
@@ -283,7 +294,10 @@
     "rating_value": "86.562905317769",
     "rating_count": "25443",
     "review_count": "430",
-    "based_on": "Jacob GrimmWilhelm Grimm",
+    "based_on": [
+      "Jacob Grimm (kniha)",
+      "Wilhelm Grimm (kniha)"
+    ],
     "directors": [
       "David Hand"
     ],
@@ -328,7 +342,9 @@
     "rating_value": "86.481814654108",
     "rating_count": "28347",
     "review_count": "944",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Hajao Mijazaki"
     ],
@@ -373,7 +389,9 @@
     "rating_value": "86.427527268638",
     "rating_count": "17786",
     "review_count": "525",
-    "based_on": "Otfried Preußler",
+    "based_on": [
+      "Otfried Preußler (kniha)"
+    ],
     "directors": [
       "Karel Zeman"
     ],
@@ -410,7 +428,9 @@
     "rating_value": "86.37039757598",
     "rating_count": "43564",
     "review_count": "735",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Roger Allers",
       "Rob Minkoff"
@@ -460,10 +480,12 @@
       "USA"
     ],
     "year": "2010",
-    "rating_value": "86.083632799739",
-    "rating_count": "61220",
+    "rating_value": "86.08386011336",
+    "rating_count": "61221",
     "review_count": "1751",
-    "based_on": "Cressida Cowell",
+    "based_on": [
+      "Cressida Cowell (kniha)"
+    ],
     "directors": [
       "Chris Sanders",
       "Dean DeBlois"
@@ -513,7 +535,9 @@
     "rating_value": "86.033246414602",
     "rating_count": "18408",
     "review_count": "577",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Alan Parker"
     ],
@@ -571,7 +595,9 @@
     "rating_value": "85.820670391061",
     "rating_count": "71600",
     "review_count": "880",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Andrew Stanton",
       "Lee Unkrich"
@@ -628,7 +654,9 @@
     "rating_value": "85.51110385369",
     "rating_count": "24496",
     "review_count": "331",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Eduard Hofman"
     ],
@@ -667,7 +695,9 @@
     "rating_value": "85.476679465428",
     "rating_count": "67194",
     "review_count": "1272",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Brad Bird",
       "Jan Pinkava"
@@ -717,7 +747,9 @@
     "rating_value": "85.411121530757",
     "rating_count": "50119",
     "review_count": "669",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "John Lasseter"
     ],
@@ -773,7 +805,9 @@
     "rating_value": "85.271410617033",
     "rating_count": "16709",
     "review_count": "663",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Hajao Mijazaki"
     ],
@@ -821,7 +855,9 @@
     "rating_value": "85.639889196676",
     "rating_count": "1805",
     "review_count": "138",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Tomm Moore",
       "Ross Stewart"
@@ -864,7 +900,9 @@
     "rating_value": "85.341786108049",
     "rating_count": "3628",
     "review_count": "170",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Makoto Šinkai"
     ],
@@ -909,10 +947,13 @@
       "USA"
     ],
     "year": "2018",
-    "rating_value": "85.045824847251",
-    "rating_count": "15712",
+    "rating_value": "85.045503723032",
+    "rating_count": "15713",
     "review_count": "673",
-    "based_on": "Stan LeeSteve Ditko",
+    "based_on": [
+      "Stan Lee (komiks)",
+      "Steve Ditko (komiks)"
+    ],
     "directors": [
       "Bob Persichetti",
       "Peter Ramsey",
@@ -976,10 +1017,12 @@
       "USA"
     ],
     "year": "2001",
-    "rating_value": "84.974945678684",
-    "rating_count": "45102",
+    "rating_value": "84.975278806288",
+    "rating_count": "45103",
     "review_count": "650",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Pete Docter",
       "Lee Unkrich",

@@ -11,10 +11,12 @@
       "USA"
     ],
     "year": "1991",
-    "rating_value": "90.470862816286",
-    "rating_count": "80979",
+    "rating_value": "90.47098048901",
+    "rating_count": "80980",
     "review_count": "1338",
-    "based_on": "Thomas Harris",
+    "based_on": [
+      "Thomas Harris (kniha)"
+    ],
     "directors": [
       "Jonathan Demme"
     ],
@@ -84,10 +86,12 @@
       "Velká Británie"
     ],
     "year": "1979",
-    "rating_value": "89.60589686362",
-    "rating_count": "68104",
+    "rating_value": "89.606049482417",
+    "rating_count": "68105",
     "review_count": "1726",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Ridley Scott"
     ],
@@ -132,7 +136,9 @@
     "rating_value": "89.540821687507",
     "rating_count": "57102",
     "review_count": "1515",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Cameron"
     ],
@@ -183,10 +189,12 @@
       "Československo"
     ],
     "year": "1968",
-    "rating_value": "88.585553099919",
-    "rating_count": "51582",
+    "rating_value": "88.585774383033",
+    "rating_count": "51583",
     "review_count": "1579",
-    "based_on": "Ladislav Fuks",
+    "based_on": [
+      "Ladislav Fuks (kniha)"
+    ],
     "directors": [
       "Juraj Herz"
     ],
@@ -276,7 +284,9 @@
     "rating_value": "88.133186267751",
     "rating_count": "72530",
     "review_count": "1261",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "M. Night Shyamalan"
     ],
@@ -326,10 +336,12 @@
       "USA"
     ],
     "year": "1980",
-    "rating_value": "87.882685257527",
-    "rating_count": "49917",
+    "rating_value": "87.882527344846",
+    "rating_count": "49918",
     "review_count": "1876",
-    "based_on": "Stephen King",
+    "based_on": [
+      "Stephen King (kniha)"
+    ],
     "directors": [
       "Stanley Kubrick"
     ],
@@ -382,7 +394,9 @@
     "rating_value": "87.824379796538",
     "rating_count": "33618",
     "review_count": "1117",
-    "based_on": "Robert Bloch",
+    "based_on": [
+      "Robert Bloch (kniha)"
+    ],
     "directors": [
       "Alfred Hitchcock"
     ],
@@ -436,7 +450,9 @@
     "rating_value": "87.54887703991",
     "rating_count": "30945",
     "review_count": "916",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Otakar Vávra"
     ],
@@ -534,10 +550,12 @@
       "USA"
     ],
     "year": "1987",
-    "rating_value": "86.464836336689",
-    "rating_count": "55327",
+    "rating_value": "86.46508097166",
+    "rating_count": "55328",
     "review_count": "1422",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "John McTiernan"
     ],
@@ -581,10 +599,12 @@
       "Západní Německo"
     ],
     "year": "1977",
-    "rating_value": "86.427527268638",
-    "rating_count": "17786",
+    "rating_value": "86.428290324394",
+    "rating_count": "17787",
     "review_count": "525",
-    "based_on": "Otfried Preußler",
+    "based_on": [
+      "Otfried Preußler (kniha)"
+    ],
     "directors": [
       "Karel Zeman"
     ],
@@ -617,10 +637,12 @@
       "USA"
     ],
     "year": "1982",
-    "rating_value": "85.315594435332",
-    "rating_count": "32922",
+    "rating_value": "85.316486453651",
+    "rating_count": "32924",
     "review_count": "1471",
-    "based_on": "John Wood Campbell jr.",
+    "based_on": [
+      "John Wood Campbell jr. (povídka)"
+    ],
     "directors": [
       "John Carpenter"
     ],
@@ -669,7 +691,9 @@
     "rating_value": "84.728958630528",
     "rating_count": "8412",
     "review_count": "381",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Terence Young"
     ],
@@ -713,7 +737,9 @@
     "rating_value": "84.742857142857",
     "rating_count": "4900",
     "review_count": "325",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Robert Wiene"
     ],
@@ -752,7 +778,9 @@
     "rating_value": "85.432999088423",
     "rating_count": "1097",
     "review_count": "85",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Friedrich Wilhelm Murnau"
     ],
@@ -794,10 +822,12 @@
       "USA"
     ],
     "year": "1975",
-    "rating_value": "84.533863609779",
-    "rating_count": "34196",
+    "rating_value": "84.534315875662",
+    "rating_count": "34197",
     "review_count": "836",
-    "based_on": "Peter Benchley",
+    "based_on": [
+      "Peter Benchley (kniha)"
+    ],
     "directors": [
       "Steven Spielberg"
     ],
@@ -850,7 +880,9 @@
     "rating_value": "84.447132833293",
     "rating_count": "8266",
     "review_count": "538",
-    "based_on": "Bram Stoker",
+    "based_on": [
+      "Bram Stoker (kniha)"
+    ],
     "directors": [
       "Friedrich Wilhelm Murnau"
     ],
@@ -900,7 +932,9 @@
     "rating_value": "83.805096418733",
     "rating_count": "5808",
     "review_count": "417",
-    "based_on": "Peter Van Greenaway",
+    "based_on": [
+      "Peter Van Greenaway (kniha)"
+    ],
     "directors": [
       "Jack Gold"
     ],
@@ -960,7 +994,9 @@
     "rating_value": "84.303797468354",
     "rating_count": "1264",
     "review_count": "96",
-    "based_on": "Selma Lagerlöf",
+    "based_on": [
+      "Selma Lagerlöf (kniha)"
+    ],
     "directors": [
       "Victor Sjöström"
     ],
@@ -1019,7 +1055,9 @@
     "rating_value": "83.551942990758",
     "rating_count": "8981",
     "review_count": "544",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Richard Donner"
     ],
@@ -1078,10 +1116,12 @@
       "Itálie"
     ],
     "year": "2001",
-    "rating_value": "83.369772155008",
-    "rating_count": "32566",
+    "rating_value": "83.370282801609",
+    "rating_count": "32567",
     "review_count": "1112",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Alejandro Amenábar"
     ],

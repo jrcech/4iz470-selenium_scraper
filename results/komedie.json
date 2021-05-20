@@ -10,10 +10,12 @@
       "USA"
     ],
     "year": "1994",
-    "rating_value": "94.474761928258",
-    "rating_count": "121602",
+    "rating_value": "94.47480736495",
+    "rating_count": "121603",
     "review_count": "2989",
-    "based_on": "Winston Groom",
+    "based_on": [
+      "Winston Groom (kniha)"
+    ],
     "directors": [
       "Robert Zemeckis"
     ],
@@ -91,10 +93,12 @@
       "Francie"
     ],
     "year": "2011",
-    "rating_value": "91.301652892562",
-    "rating_count": "76472",
+    "rating_value": "91.301766636591",
+    "rating_count": "76473",
     "review_count": "2746",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Eric Toledano",
       "Olivier Nakache"
@@ -151,10 +155,12 @@
       "Česko"
     ],
     "year": "1999",
-    "rating_value": "91.174005354011",
-    "rating_count": "108330",
+    "rating_value": "91.173902207124",
+    "rating_count": "108331",
     "review_count": "1811",
-    "based_on": "Petr Šabach",
+    "based_on": [
+      "Petr Šabach (kniha)"
+    ],
     "directors": [
       "Jan Hřebejk"
     ],
@@ -209,7 +215,9 @@
     "rating_value": "89.597328124015",
     "rating_count": "31738",
     "review_count": "896",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "George Roy Hill"
     ],
@@ -286,7 +294,9 @@
     "rating_value": "89.065678192913",
     "rating_count": "74728",
     "review_count": "1410",
-    "based_on": "Božena Němcová",
+    "based_on": [
+      "Božena Němcová (kniha)"
+    ],
     "directors": [
       "Hynek Bočan"
     ],
@@ -362,7 +372,9 @@
     "rating_value": "89.023833327162",
     "rating_count": "81021",
     "review_count": "728",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jan Svěrák"
     ],
@@ -446,7 +458,9 @@
     "rating_value": "89.031038285804",
     "rating_count": "38082",
     "review_count": "463",
-    "based_on": "Jaroslav Žák",
+    "based_on": [
+      "Jaroslav Žák (kniha)"
+    ],
     "directors": [
       "Martin Frič"
     ],
@@ -510,7 +524,9 @@
     "rating_value": "88.995438418652",
     "rating_count": "78920",
     "review_count": "950",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Oldřich Lipský"
     ],
@@ -611,10 +627,12 @@
       "USA"
     ],
     "year": "1985",
-    "rating_value": "88.621490925077",
-    "rating_count": "63692",
+    "rating_value": "88.621669571224",
+    "rating_count": "63693",
     "review_count": "1114",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Robert Zemeckis"
     ],
@@ -679,10 +697,12 @@
       "Československo"
     ],
     "year": "1968",
-    "rating_value": "88.585553099919",
-    "rating_count": "51582",
+    "rating_value": "88.585774383033",
+    "rating_count": "51583",
     "review_count": "1579",
-    "based_on": "Ladislav Fuks",
+    "based_on": [
+      "Ladislav Fuks (kniha)"
+    ],
     "directors": [
       "Juraj Herz"
     ],
@@ -769,7 +789,9 @@
     "rating_value": "88.316631493814",
     "rating_count": "79133",
     "review_count": "940",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jiří Menzel"
     ],
@@ -840,7 +862,9 @@
     "rating_value": "87.968992248062",
     "rating_count": "36120",
     "review_count": "998",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Roberto Benigni"
     ],
@@ -891,7 +915,10 @@
     "rating_value": "87.737645247095",
     "rating_count": "28572",
     "review_count": "503",
-    "based_on": "René GoscinnyAlbert Uderzo",
+    "based_on": [
+      "René Goscinny (komiks)",
+      "Albert Uderzo (komiks)"
+    ],
     "directors": [
       "René Goscinny",
       "Albert Uderzo",
@@ -947,7 +974,9 @@
     "rating_value": "87.696034886538",
     "rating_count": "24766",
     "review_count": "817",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "William Wyler"
     ],
@@ -1005,7 +1034,9 @@
     "rating_value": "87.668796262419",
     "rating_count": "35531",
     "review_count": "708",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Billy Wilder"
     ],
@@ -1090,7 +1121,9 @@
     "rating_value": "87.464174855654",
     "rating_count": "62177",
     "review_count": "763",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jiří Menzel"
     ],
@@ -1147,10 +1180,12 @@
       "Československo"
     ],
     "year": "1939",
-    "rating_value": "87.454985439482",
-    "rating_count": "24381",
+    "rating_value": "87.454679681732",
+    "rating_count": "24382",
     "review_count": "431",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Karel Lamač"
     ],
@@ -1208,7 +1243,9 @@
     "rating_value": "87.547275528786",
     "rating_count": "7139",
     "review_count": "285",
-    "based_on": "Sergio Pablos",
+    "based_on": [
+      "Sergio Pablos (povídka)"
+    ],
     "directors": [
       "Sergio Pablos"
     ],
@@ -1261,10 +1298,12 @@
       "USA"
     ],
     "year": "2000",
-    "rating_value": "87.358359727871",
-    "rating_count": "53357",
+    "rating_value": "87.35859664905",
+    "rating_count": "53358",
     "review_count": "1174",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Guy Ritchie"
     ],
@@ -1324,7 +1363,9 @@
     "rating_value": "87.289694062198",
     "rating_count": "95052",
     "review_count": "950",
-    "based_on": "William Steig",
+    "based_on": [
+      "William Steig (kniha)"
+    ],
     "directors": [
       "Vicky Jenson",
       "Andrew Adamson"

@@ -14,7 +14,10 @@
     "rating_value": "87.737645247095",
     "rating_count": "28572",
     "review_count": "503",
-    "based_on": "René GoscinnyAlbert Uderzo",
+    "based_on": [
+      "René Goscinny (komiks)",
+      "Albert Uderzo (komiks)"
+    ],
     "directors": [
       "René Goscinny",
       "Albert Uderzo",
@@ -71,7 +74,9 @@
     "rating_value": "87.464174855654",
     "rating_count": "62177",
     "review_count": "763",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jiří Menzel"
     ],
@@ -134,7 +139,9 @@
     "rating_value": "87.547275528786",
     "rating_count": "7139",
     "review_count": "285",
-    "based_on": "Sergio Pablos",
+    "based_on": [
+      "Sergio Pablos (povídka)"
+    ],
     "directors": [
       "Sergio Pablos"
     ],
@@ -188,10 +195,12 @@
       "Československo"
     ],
     "year": "1955",
-    "rating_value": "87.387636333187",
-    "rating_count": "47769",
+    "rating_value": "87.387900355872",
+    "rating_count": "47770",
     "review_count": "756",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Karel Zeman"
     ],
@@ -229,7 +238,9 @@
     "rating_value": "87.289694062198",
     "rating_count": "95052",
     "review_count": "950",
-    "based_on": "William Steig",
+    "based_on": [
+      "William Steig (kniha)"
+    ],
     "directors": [
       "Vicky Jenson",
       "Andrew Adamson"
@@ -285,7 +296,9 @@
     "rating_value": "87.246974955445",
     "rating_count": "10661",
     "review_count": "583",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Yann Arthus-Bertrand"
     ],
@@ -320,10 +333,12 @@
       "USA"
     ],
     "year": "2017",
-    "rating_value": "87.169671752196",
-    "rating_count": "21630",
+    "rating_value": "87.170264897601",
+    "rating_count": "21631",
     "review_count": "703",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Lee Unkrich",
       "Adrian Molina"
@@ -371,7 +386,9 @@
     "rating_value": "86.996733360555",
     "rating_count": "19592",
     "review_count": "530",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jean-Jacques Annaud"
     ],
@@ -407,7 +424,9 @@
     "rating_value": "87.383033419023",
     "rating_count": "1945",
     "review_count": "83",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Peter Webber",
       "Richard Dale",
@@ -445,7 +464,10 @@
     "rating_value": "86.562905317769",
     "rating_count": "25443",
     "review_count": "430",
-    "based_on": "Jacob GrimmWilhelm Grimm",
+    "based_on": [
+      "Jacob Grimm (kniha)",
+      "Wilhelm Grimm (kniha)"
+    ],
     "directors": [
       "David Hand"
     ],
@@ -490,7 +512,9 @@
     "rating_value": "86.481814654108",
     "rating_count": "28347",
     "review_count": "944",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Hajao Mijazaki"
     ],
@@ -536,7 +560,9 @@
     "rating_value": "86.37039757598",
     "rating_count": "43564",
     "review_count": "735",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Roger Allers",
       "Rob Minkoff"
@@ -583,10 +609,12 @@
       "USA"
     ],
     "year": "1990",
-    "rating_value": "86.174302371194",
-    "rating_count": "73929",
+    "rating_value": "86.174489381848",
+    "rating_count": "73930",
     "review_count": "1171",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Chris Columbus"
     ],
@@ -653,10 +681,12 @@
       "USA"
     ],
     "year": "2010",
-    "rating_value": "86.083632799739",
-    "rating_count": "61220",
+    "rating_value": "86.08386011336",
+    "rating_count": "61221",
     "review_count": "1751",
-    "based_on": "Cressida Cowell",
+    "based_on": [
+      "Cressida Cowell (kniha)"
+    ],
     "directors": [
       "Chris Sanders",
       "Dean DeBlois"
@@ -704,7 +734,9 @@
     "rating_value": "86.105457909343",
     "rating_count": "8648",
     "review_count": "305",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Charlie Chaplin"
     ],
@@ -754,7 +786,9 @@
     "rating_value": "85.820670391061",
     "rating_count": "71600",
     "review_count": "880",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Andrew Stanton",
       "Lee Unkrich"
@@ -810,7 +844,9 @@
     "rating_value": "85.899809765377",
     "rating_count": "7885",
     "review_count": "404",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Frank Capra"
     ],
@@ -924,7 +960,9 @@
     "rating_value": "85.514160558616",
     "rating_count": "23057",
     "review_count": "1053",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Lasse Hallström"
     ],
@@ -971,7 +1009,9 @@
     "rating_value": "85.51110385369",
     "rating_count": "24496",
     "review_count": "331",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Eduard Hofman"
     ],
@@ -1007,10 +1047,12 @@
       "USA"
     ],
     "year": "2007",
-    "rating_value": "85.476679465428",
-    "rating_count": "67194",
+    "rating_value": "85.476895602351",
+    "rating_count": "67195",
     "review_count": "1272",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Brad Bird",
       "Jan Pinkava"

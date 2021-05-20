@@ -11,10 +11,12 @@
       "Nový Zéland"
     ],
     "year": "2001",
-    "rating_value": "90.483813321796",
-    "rating_count": "106322",
+    "rating_value": "90.484090930467",
+    "rating_count": "106323",
     "review_count": "1919",
-    "based_on": "John Ronald Reuel Tolkien",
+    "based_on": [
+      "John Ronald Reuel Tolkien (kniha)"
+    ],
     "directors": [
       "Peter Jackson"
     ],
@@ -84,10 +86,12 @@
       "Nový Zéland"
     ],
     "year": "2003",
-    "rating_value": "90.409525929223",
-    "rating_count": "98846",
+    "rating_value": "90.409825285542",
+    "rating_count": "98847",
     "review_count": "1600",
-    "based_on": "John Ronald Reuel Tolkien",
+    "based_on": [
+      "John Ronald Reuel Tolkien (kniha)"
+    ],
     "directors": [
       "Peter Jackson"
     ],
@@ -163,10 +167,12 @@
       "USA"
     ],
     "year": "1989",
-    "rating_value": "89.548327032669",
-    "rating_count": "70892",
+    "rating_value": "89.548474461512",
+    "rating_count": "70893",
     "review_count": "928",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Steven Spielberg"
     ],
@@ -222,10 +228,12 @@
       "USA"
     ],
     "year": "1980",
-    "rating_value": "89.017314493042",
-    "rating_count": "65321",
+    "rating_value": "89.017482624537",
+    "rating_count": "65322",
     "review_count": "1045",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Irvin Kershner"
     ],
@@ -296,7 +304,9 @@
     "rating_value": "88.474302069938",
     "rating_count": "96428",
     "review_count": "1232",
-    "based_on": "John Ronald Reuel Tolkien",
+    "based_on": [
+      "John Ronald Reuel Tolkien (kniha)"
+    ],
     "directors": [
       "Peter Jackson"
     ],
@@ -373,7 +383,9 @@
     "rating_value": "87.757583070635",
     "rating_count": "66299",
     "review_count": "1213",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "George Lucas"
     ],
@@ -442,10 +454,12 @@
       "Československo"
     ],
     "year": "1955",
-    "rating_value": "87.387636333187",
-    "rating_count": "47769",
+    "rating_value": "87.387900355872",
+    "rating_count": "47770",
     "review_count": "756",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Karel Zeman"
     ],
@@ -480,10 +494,12 @@
       "USA"
     ],
     "year": "2005",
-    "rating_value": "87.312039163544",
-    "rating_count": "66184",
+    "rating_value": "87.312230868021",
+    "rating_count": "66185",
     "review_count": "1513",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "George Lucas"
     ],
@@ -561,7 +577,9 @@
     "rating_value": "87.183605741309",
     "rating_count": "60265",
     "review_count": "923",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Richard Marquand"
     ],
@@ -646,7 +664,9 @@
     "rating_value": "87.169671752196",
     "rating_count": "21630",
     "review_count": "703",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Lee Unkrich",
       "Adrian Molina"
@@ -693,7 +713,9 @@
     "rating_value": "86.894805382723",
     "rating_count": "27644",
     "review_count": "882",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Hajao Mijazaki"
     ],
@@ -742,7 +764,9 @@
     "rating_value": "86.481814654108",
     "rating_count": "28347",
     "review_count": "944",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Hajao Mijazaki"
     ],
@@ -786,7 +810,9 @@
     "rating_value": "86.305565932013",
     "rating_count": "18739",
     "review_count": "376",
-    "based_on": "Jules Verne",
+    "based_on": [
+      "Jules Verne (kniha)"
+    ],
     "directors": [
       "Karel Zeman"
     ],
@@ -826,10 +852,12 @@
       "USA"
     ],
     "year": "2010",
-    "rating_value": "86.083632799739",
-    "rating_count": "61220",
+    "rating_value": "86.08386011336",
+    "rating_count": "61221",
     "review_count": "1751",
-    "based_on": "Cressida Cowell",
+    "based_on": [
+      "Cressida Cowell (kniha)"
+    ],
     "directors": [
       "Chris Sanders",
       "Dean DeBlois"
@@ -879,7 +907,9 @@
     "rating_value": "86.033246414602",
     "rating_count": "18408",
     "review_count": "577",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Alan Parker"
     ],
@@ -936,7 +966,9 @@
     "rating_value": "85.899809765377",
     "rating_count": "7885",
     "review_count": "404",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Frank Capra"
     ],
@@ -1048,10 +1080,12 @@
       "USA"
     ],
     "year": "2007",
-    "rating_value": "85.476679465428",
-    "rating_count": "67194",
+    "rating_value": "85.476895602351",
+    "rating_count": "67195",
     "review_count": "1272",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Brad Bird",
       "Jan Pinkava"
@@ -1099,10 +1133,12 @@
       "USA"
     ],
     "year": "2004",
-    "rating_value": "85.340563614479",
-    "rating_count": "80587",
+    "rating_value": "85.340745520425",
+    "rating_count": "80588",
     "review_count": "1251",
-    "based_on": "J. K. Rowling",
+    "based_on": [
+      "J. K. Rowling (kniha)"
+    ],
     "directors": [
       "Alfonso Cuarón"
     ],
@@ -1176,10 +1212,12 @@
       "USA"
     ],
     "year": "1984",
-    "rating_value": "85.235366954186",
-    "rating_count": "47649",
+    "rating_value": "85.235676810073",
+    "rating_count": "47650",
     "review_count": "1053",
-    "based_on": "Michael Ende",
+    "based_on": [
+      "Michael Ende (kniha)"
+    ],
     "directors": [
       "Wolfgang Petersen"
     ],
@@ -1231,7 +1269,9 @@
     "rating_value": "85.271410617033",
     "rating_count": "16709",
     "review_count": "663",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Hajao Mijazaki"
     ],

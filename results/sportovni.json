@@ -14,7 +14,9 @@
     "rating_value": "94.969496695475",
     "rating_count": "7868",
     "review_count": "449",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Ondřej Hudeček"
     ],
@@ -55,7 +57,9 @@
     "rating_value": "93.571171171171",
     "rating_count": "2775",
     "review_count": "153",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jiří Slezák",
       "Charilaos Karadžos"
@@ -112,7 +116,9 @@
     "rating_value": "89.686994063681",
     "rating_count": "22236",
     "review_count": "896",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Mangold"
     ],
@@ -196,7 +202,9 @@
     "rating_value": "89.611591072714",
     "rating_count": "55560",
     "review_count": "2302",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Ron Howard"
     ],
@@ -297,7 +305,9 @@
     "rating_value": "88.636897767333",
     "rating_count": "11914",
     "review_count": "634",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Asif Kapadia"
     ],
@@ -338,7 +348,9 @@
     "rating_value": "87.952373437144",
     "rating_count": "57027",
     "review_count": "1229",
-    "based_on": "F.X. Toole",
+    "based_on": [
+      "F.X. Toole (kniha)"
+    ],
     "directors": [
       "Clint Eastwood"
     ],
@@ -400,7 +412,9 @@
     "rating_value": "87.4816395395",
     "rating_count": "40304",
     "review_count": "2258",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Gavin O'Connor"
     ],
@@ -459,7 +473,9 @@
     "rating_value": "88.490351872872",
     "rating_count": "881",
     "review_count": "54",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
 
     ],
@@ -487,10 +503,12 @@
       "USA"
     ],
     "year": "1976",
-    "rating_value": "86.546437578243",
-    "rating_count": "55117",
+    "rating_value": "86.546681664792",
+    "rating_count": "55118",
     "review_count": "984",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "John G. Avildsen"
     ],
@@ -557,7 +575,9 @@
     "rating_value": "88.834355828221",
     "rating_count": "326",
     "review_count": "15",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Nick Rosen",
       "Peter Mortimer"
@@ -593,7 +613,9 @@
     "rating_value": "85.53555139469",
     "rating_count": "20829",
     "review_count": "686",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Ron Howard"
     ],
@@ -668,7 +690,9 @@
     "rating_value": "85.46979558163",
     "rating_count": "21818",
     "review_count": "773",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Wilson Yip"
     ],
@@ -715,7 +739,9 @@
     "rating_value": "87.470355731225",
     "rating_count": "506",
     "review_count": "23",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Lucy Walker"
     ],
@@ -749,7 +775,9 @@
     "rating_value": "85.784615384615",
     "rating_count": "1625",
     "review_count": "85",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Nitesh Tiwari"
     ],
@@ -796,7 +824,9 @@
     "rating_value": "85.827538247566",
     "rating_count": "1438",
     "review_count": "60",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Mark Neale"
     ],
@@ -830,7 +860,9 @@
     "rating_value": "85.07885159725",
     "rating_count": "4946",
     "review_count": "268",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Curt Morgan"
     ],
@@ -863,7 +895,10 @@
     "rating_value": "84.927962364011",
     "rating_count": "6802",
     "review_count": "342",
-    "based_on": "Charles GainesGeorge Butler",
+    "based_on": [
+      "Charles Gaines (kniha)",
+      "George Butler (kniha)"
+    ],
     "directors": [
       "George Butler",
       "Robert Fiore"
@@ -903,7 +938,9 @@
     "rating_value": "84.907334899504",
     "rating_count": "3831",
     "review_count": "180",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Sebastian Dehnhardt"
     ],
@@ -938,7 +975,9 @@
     "rating_value": "84.920340866988",
     "rating_count": "2699",
     "review_count": "111",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Simon Wincer"
     ],
@@ -977,7 +1016,9 @@
     "rating_value": "84.592611177319",
     "rating_count": "15943",
     "review_count": "665",
-    "based_on": "Jake LaMotta",
+    "based_on": [
+      "Jake LaMotta (kniha)"
+    ],
     "directors": [
       "Martin Scorsese"
     ],

@@ -12,7 +12,9 @@
     "rating_value": "94.736842105263",
     "rating_count": "361",
     "review_count": "36",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Anton Corbijn"
     ],
@@ -47,7 +49,9 @@
     "rating_value": "89.086380316772",
     "rating_count": "52593",
     "review_count": "1134",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Miloš Forman"
     ],
@@ -143,7 +147,9 @@
     "rating_value": "88.341827448125",
     "rating_count": "54940",
     "review_count": "1044",
-    "based_on": "Władysław Szpilman",
+    "based_on": [
+      "Władysław Szpilman (kniha)"
+    ],
     "directors": [
       "Roman Polanski"
     ],
@@ -232,7 +238,9 @@
     "rating_value": "88.10609900321",
     "rating_count": "41433",
     "review_count": "1933",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Bryan Singer",
       "Dexter Fletcher"
@@ -294,7 +302,9 @@
     "rating_value": "87.668796262419",
     "rating_count": "35531",
     "review_count": "708",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Billy Wilder"
     ],
@@ -378,7 +388,9 @@
     "rating_value": "88.745910577972",
     "rating_count": "917",
     "review_count": "47",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Rhys Thomas"
     ],
@@ -418,7 +430,9 @@
     "rating_value": "90.223325062035",
     "rating_count": "403",
     "review_count": "20",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
 
     ],
@@ -455,10 +469,12 @@
       "USA"
     ],
     "year": "2017",
-    "rating_value": "87.169671752196",
-    "rating_count": "21630",
+    "rating_value": "87.170264897601",
+    "rating_count": "21631",
     "review_count": "703",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Lee Unkrich",
       "Adrian Molina"
@@ -504,7 +520,9 @@
     "rating_value": "86.875243512819",
     "rating_count": "25666",
     "review_count": "598",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Zdeněk Podskalský st."
     ],
@@ -588,7 +606,9 @@
     "rating_value": "86.66802079948",
     "rating_count": "24616",
     "review_count": "860",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Peter Farrelly"
     ],
@@ -663,7 +683,9 @@
     "rating_value": "91.782178217822",
     "rating_count": "202",
     "review_count": "6",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
 
     ],
@@ -699,7 +721,9 @@
     "rating_value": "91.818181818182",
     "rating_count": "198",
     "review_count": "18",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jonathan Demme"
     ],
@@ -737,7 +761,9 @@
     "rating_value": "86.22206943967",
     "rating_count": "5818",
     "review_count": "319",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Malik Bendjelloul"
     ],
@@ -774,7 +800,9 @@
     "rating_value": "86.750524109015",
     "rating_count": "1431",
     "review_count": "99",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Sean Evans",
       "Roger Waters"
@@ -811,7 +839,9 @@
     "rating_value": "86.033246414602",
     "rating_count": "18408",
     "review_count": "577",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Alan Parker"
     ],
@@ -867,7 +897,9 @@
     "rating_value": "86.116666666667",
     "rating_count": "2400",
     "review_count": "160",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Greg Olliver",
       "Wes Orshoski"
@@ -927,7 +959,9 @@
     "rating_value": "85.51110385369",
     "rating_count": "24496",
     "review_count": "331",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Eduard Hofman"
     ],
@@ -964,7 +998,9 @@
     "rating_value": "85.67098508922",
     "rating_count": "4091",
     "review_count": "149",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Michael Wadleigh"
     ],
@@ -1016,7 +1052,9 @@
     "rating_value": "87.168458781362",
     "rating_count": "558",
     "review_count": "39",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Michael Lindsay-Hogg"
     ],
@@ -1060,7 +1098,9 @@
     "rating_value": "89.909090909091",
     "rating_count": "220",
     "review_count": "9",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Bob Smeaton"
     ],

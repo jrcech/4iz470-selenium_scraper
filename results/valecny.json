@@ -12,7 +12,9 @@
     "rating_value": "89.775610399025",
     "rating_count": "30349",
     "review_count": "719",
-    "based_on": "Jan Drda",
+    "based_on": [
+      "Jan Drda (povídka)"
+    ],
     "directors": [
       "Jiří Krejčík"
     ],
@@ -91,7 +93,9 @@
     "rating_value": "89.17595260769",
     "rating_count": "80857",
     "review_count": "1442",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Steven Spielberg"
     ],
@@ -178,7 +182,9 @@
     "rating_value": "88.341827448125",
     "rating_count": "54940",
     "review_count": "1044",
-    "based_on": "Władysław Szpilman",
+    "based_on": [
+      "Władysław Szpilman (kniha)"
+    ],
     "directors": [
       "Roman Polanski"
     ],
@@ -267,7 +273,9 @@
     "rating_value": "87.998503123291",
     "rating_count": "69478",
     "review_count": "1281",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Mel Gibson"
     ],
@@ -342,7 +350,9 @@
     "rating_value": "87.968992248062",
     "rating_count": "36120",
     "review_count": "998",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Roberto Benigni"
     ],
@@ -392,7 +402,9 @@
     "rating_value": "87.769454526733",
     "rating_count": "38847",
     "review_count": "977",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Oliver Stone"
     ],
@@ -455,7 +467,9 @@
     "rating_value": "86.666666666667",
     "rating_count": "58155",
     "review_count": "1346",
-    "based_on": "Mark Bowden",
+    "based_on": [
+      "Mark Bowden (kniha)"
+    ],
     "directors": [
       "Ridley Scott"
     ],
@@ -530,7 +544,9 @@
     "rating_value": "86.692979308695",
     "rating_count": "16722",
     "review_count": "476",
-    "based_on": "Ladislav Grosman",
+    "based_on": [
+      "Ladislav Grosman (kniha)"
+    ],
     "directors": [
       "Ján Kadár",
       "Elmar Klos"
@@ -599,10 +615,12 @@
       "Německo"
     ],
     "year": "2009",
-    "rating_value": "86.475635215642",
-    "rating_count": "78556",
+    "rating_value": "86.475552783329",
+    "rating_count": "78557",
     "review_count": "3057",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Quentin Tarantino"
     ],
@@ -696,7 +714,9 @@
     "rating_value": "86.487101129984",
     "rating_count": "14071",
     "review_count": "571",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Wolfgang Petersen"
     ],
@@ -753,7 +773,9 @@
     "rating_value": "86.344072081416",
     "rating_count": "30854",
     "review_count": "830",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Terry George"
     ],
@@ -805,7 +827,9 @@
     "rating_value": "86.222222222222",
     "rating_count": "20070",
     "review_count": "426",
-    "based_on": "Pierre Boulle",
+    "based_on": [
+      "Pierre Boulle (kniha)"
+    ],
     "directors": [
       "David Lean"
     ],
@@ -849,7 +873,9 @@
     "rating_value": "86.188810001019",
     "rating_count": "29437",
     "review_count": "902",
-    "based_on": "Gustav Hasford",
+    "based_on": [
+      "Gustav Hasford (kniha)"
+    ],
     "directors": [
       "Stanley Kubrick"
     ],
@@ -918,7 +944,9 @@
     "rating_value": "86.632888070014",
     "rating_count": "2171",
     "review_count": "109",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Peter Jackson"
     ],
@@ -949,7 +977,9 @@
     "rating_value": "85.98487394958",
     "rating_count": "23800",
     "review_count": "1118",
-    "based_on": "Joseph Conrad",
+    "based_on": [
+      "Joseph Conrad (kniha)"
+    ],
     "directors": [
       "Francis Ford Coppola"
     ],
@@ -1014,7 +1044,9 @@
     "rating_value": "85.909012024297",
     "rating_count": "40335",
     "review_count": "517",
-    "based_on": "Jaroslav Hašek",
+    "based_on": [
+      "Jaroslav Hašek (kniha)"
+    ],
     "directors": [
       "Karel Steklý"
     ],
@@ -1125,7 +1157,9 @@
     "rating_value": "87.265625",
     "rating_count": "768",
     "review_count": "71",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Claude Lanzmann"
     ],
@@ -1160,7 +1194,9 @@
     "rating_value": "85.726600100567",
     "rating_count": "13921",
     "review_count": "537",
-    "based_on": "Paul Brickhill",
+    "based_on": [
+      "Paul Brickhill (kniha)"
+    ],
     "directors": [
       "John Sturges"
     ],
@@ -1219,7 +1255,9 @@
     "rating_value": "85.623276599791",
     "rating_count": "10517",
     "review_count": "402",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Charlie Chaplin"
     ],
@@ -1296,7 +1334,9 @@
     "rating_value": "85.49635848312",
     "rating_count": "27873",
     "review_count": "324",
-    "based_on": "Jaroslav Hašek",
+    "based_on": [
+      "Jaroslav Hašek (kniha)"
+    ],
     "directors": [
       "Karel Steklý"
     ],

@@ -12,7 +12,9 @@
     "rating_value": "89.065678192913",
     "rating_count": "74728",
     "review_count": "1410",
-    "based_on": "Božena Němcová",
+    "based_on": [
+      "Božena Němcová (kniha)"
+    ],
     "directors": [
       "Hynek Bočan"
     ],
@@ -88,7 +90,10 @@
     "rating_value": "87.146819667148",
     "rating_count": "52636",
     "review_count": "640",
-    "based_on": "Božena NěmcováPavol Dobšinský",
+    "based_on": [
+      "Božena Němcová (kniha)",
+      "Pavol Dobšinský (kniha)"
+    ],
     "directors": [
       "Bořivoj Zeman"
     ],
@@ -157,7 +162,9 @@
     "rating_value": "86.481814654108",
     "rating_count": "28347",
     "review_count": "944",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Hajao Mijazaki"
     ],
@@ -199,10 +206,12 @@
       "Západní Německo"
     ],
     "year": "1977",
-    "rating_value": "86.427527268638",
-    "rating_count": "17786",
+    "rating_value": "86.428290324394",
+    "rating_count": "17787",
     "review_count": "525",
-    "based_on": "Otfried Preußler",
+    "based_on": [
+      "Otfried Preußler (kniha)"
+    ],
     "directors": [
       "Karel Zeman"
     ],
@@ -236,7 +245,9 @@
     "rating_value": "85.84336015354",
     "rating_count": "67735",
     "review_count": "939",
-    "based_on": "Božena Němcová",
+    "based_on": [
+      "Božena Němcová (kniha)"
+    ],
     "directors": [
       "Václav Vorlíček"
     ],
@@ -309,10 +320,12 @@
       "Česko"
     ],
     "year": "2002",
-    "rating_value": "84.937974525993",
-    "rating_count": "24103",
+    "rating_value": "84.938599402589",
+    "rating_count": "24104",
     "review_count": "308",
-    "based_on": "Jan Werich",
+    "based_on": [
+      "Jan Werich (kniha)"
+    ],
     "directors": [
       "Vlasta Pospíšilová",
       "Aurel Klimt"
@@ -355,7 +368,9 @@
     "rating_value": "84.76241324079",
     "rating_count": "3746",
     "review_count": "136",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Karel Zeman"
     ],
@@ -397,7 +412,9 @@
     "rating_value": "84.70351758794",
     "rating_count": "2985",
     "review_count": "91",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Karel Zeman"
     ],
@@ -428,7 +445,9 @@
     "rating_value": "84.146039314681",
     "rating_count": "42783",
     "review_count": "558",
-    "based_on": "Jan Werich",
+    "based_on": [
+      "Jan Werich (povídka)"
+    ],
     "directors": [
       "Oldřich Lipský"
     ],
@@ -493,7 +512,9 @@
     "rating_value": "83.154614733277",
     "rating_count": "29525",
     "review_count": "454",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Bořivoj Zeman"
     ],
@@ -585,7 +606,9 @@
     "rating_value": "84.949290060852",
     "rating_count": "493",
     "review_count": "14",
-    "based_on": "Hans Christian Andersen",
+    "based_on": [
+      "Hans Christian Andersen (kniha)"
+    ],
     "directors": [
       "Jiří Trnka",
       "Miloš Makovec"
@@ -623,7 +646,9 @@
     "rating_value": "82.552645095018",
     "rating_count": "3894",
     "review_count": "183",
-    "based_on": "Astrid Lindgren",
+    "based_on": [
+      "Astrid Lindgren (kniha)"
+    ],
     "directors": [
       "Tage Danielsson"
     ],
@@ -681,7 +706,9 @@
     "rating_value": "82.319522912743",
     "rating_count": "25488",
     "review_count": "447",
-    "based_on": "Jan Drda",
+    "based_on": [
+      "Jan Drda (kniha)"
+    ],
     "directors": [
       "Martin Frič"
     ],
@@ -765,7 +792,9 @@
     "rating_value": "81.608391608392",
     "rating_count": "25740",
     "review_count": "427",
-    "based_on": "Božena Němcová",
+    "based_on": [
+      "Božena Němcová (kniha)"
+    ],
     "directors": [
       "Bořivoj Zeman"
     ],
@@ -832,7 +861,9 @@
     "rating_value": "81.571848117057",
     "rating_count": "38477",
     "review_count": "469",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Václav Vorlíček"
     ],
@@ -934,7 +965,9 @@
     "rating_value": "81.430382957139",
     "rating_count": "3943",
     "review_count": "190",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jules Bass",
       "Arthur Rankin Jr."
@@ -984,7 +1017,9 @@
     "rating_value": "80.973084886128",
     "rating_count": "966",
     "review_count": "57",
-    "based_on": "Richard Adams",
+    "based_on": [
+      "Richard Adams (kniha)"
+    ],
     "directors": [
       "Martin Rosen"
     ],
@@ -1029,7 +1064,9 @@
     "rating_value": "80.008038585209",
     "rating_count": "2488",
     "review_count": "121",
-    "based_on": "Frances Hodgson Burnett",
+    "based_on": [
+      "Frances Hodgson Burnett (kniha)"
+    ],
     "directors": [
       "Alfonso Cuarón"
     ],
@@ -1084,7 +1121,9 @@
     "rating_value": "79.691470054446",
     "rating_count": "2204",
     "review_count": "18",
-    "based_on": "Otfried Preußler",
+    "based_on": [
+      "Otfried Preußler (kniha)"
+    ],
     "directors": [
       "Zdeněk Smetana"
     ],
@@ -1117,7 +1156,9 @@
     "rating_value": "78.35297098695",
     "rating_count": "7893",
     "review_count": "167",
-    "based_on": "Jan Werich",
+    "based_on": [
+      "Jan Werich (kniha)"
+    ],
     "directors": [
       "Vlasta Pospíšilová",
       "Břetislav Pojar",

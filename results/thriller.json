@@ -12,10 +12,12 @@
       "USA"
     ],
     "year": "1995",
-    "rating_value": "92.368721092826",
-    "rating_count": "92970",
+    "rating_value": "92.368885255776",
+    "rating_count": "92972",
     "review_count": "2279",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "David Fincher"
     ],
@@ -84,10 +86,12 @@
       "Francie"
     ],
     "year": "1991",
-    "rating_value": "90.816666666667",
-    "rating_count": "78000",
+    "rating_value": "90.816902130715",
+    "rating_count": "78002",
     "review_count": "1858",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Cameron"
     ],
@@ -148,10 +152,12 @@
       "USA"
     ],
     "year": "1991",
-    "rating_value": "90.470862816286",
-    "rating_count": "80979",
+    "rating_value": "90.47098048901",
+    "rating_count": "80980",
     "review_count": "1338",
-    "based_on": "Thomas Harris",
+    "based_on": [
+      "Thomas Harris (kniha)"
+    ],
     "directors": [
       "Jonathan Demme"
     ],
@@ -223,10 +229,13 @@
       "Velká Británie"
     ],
     "year": "2008",
-    "rating_value": "90.28785206563",
-    "rating_count": "93555",
+    "rating_value": "90.287955876694",
+    "rating_count": "93556",
     "review_count": "3812",
-    "based_on": "Bob KaneBill Finger",
+    "based_on": [
+      "Bob Kane (komiks)",
+      "Bill Finger (komiks)"
+    ],
     "directors": [
       "Christopher Nolan"
     ],
@@ -322,10 +331,12 @@
       "Velká Británie"
     ],
     "year": "1986",
-    "rating_value": "89.540821687507",
-    "rating_count": "57102",
+    "rating_value": "89.541004850883",
+    "rating_count": "57103",
     "review_count": "1515",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Cameron"
     ],
@@ -373,10 +384,12 @@
       "USA"
     ],
     "year": "1988",
-    "rating_value": "89.465049069781",
-    "rating_count": "66436",
+    "rating_value": "89.465207640321",
+    "rating_count": "66437",
     "review_count": "1254",
-    "based_on": "Roderick Thorp",
+    "based_on": [
+      "Roderick Thorp (kniha)"
+    ],
     "directors": [
       "John McTiernan"
     ],
@@ -438,7 +451,9 @@
     "rating_value": "89.265861419573",
     "rating_count": "61596",
     "review_count": "1443",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Luc Besson"
     ],
@@ -496,7 +511,9 @@
     "rating_value": "89.029695479478",
     "rating_count": "37009",
     "review_count": "1134",
-    "based_on": "James Ellroy",
+    "based_on": [
+      "James Ellroy (kniha)"
+    ],
     "directors": [
       "Curtis Hanson"
     ],
@@ -574,10 +591,12 @@
       "Velká Británie"
     ],
     "year": "2010",
-    "rating_value": "88.592748472713",
-    "rating_count": "93139",
+    "rating_value": "88.592656216448",
+    "rating_count": "93140",
     "review_count": "4061",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Christopher Nolan"
     ],
@@ -643,10 +662,12 @@
       "Československo"
     ],
     "year": "1968",
-    "rating_value": "88.585553099919",
-    "rating_count": "51582",
+    "rating_value": "88.585774383033",
+    "rating_count": "51583",
     "review_count": "1579",
-    "based_on": "Ladislav Fuks",
+    "based_on": [
+      "Ladislav Fuks (kniha)"
+    ],
     "directors": [
       "Juraj Herz"
     ],
@@ -736,7 +757,9 @@
     "rating_value": "88.170841481206",
     "rating_count": "32217",
     "review_count": "1347",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Michael Mann"
     ],
@@ -815,7 +838,9 @@
     "rating_value": "88.133186267751",
     "rating_count": "72530",
     "review_count": "1261",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "M. Night Shyamalan"
     ],
@@ -867,7 +892,9 @@
     "rating_value": "88.027161661982",
     "rating_count": "71866",
     "review_count": "1828",
-    "based_on": "Chuck Palahniuk",
+    "based_on": [
+      "Chuck Palahniuk (kniha)"
+    ],
     "directors": [
       "David Fincher"
     ],
@@ -938,7 +965,9 @@
     "rating_value": "87.961689323518",
     "rating_count": "74444",
     "review_count": "2518",
-    "based_on": "Dennis Lehane",
+    "based_on": [
+      "Dennis Lehane (kniha)"
+    ],
     "directors": [
       "Martin Scorsese"
     ],
@@ -1023,10 +1052,12 @@
       "USA"
     ],
     "year": "1980",
-    "rating_value": "87.882685257527",
-    "rating_count": "49917",
+    "rating_value": "87.882527344846",
+    "rating_count": "49918",
     "review_count": "1876",
-    "based_on": "Stephen King",
+    "based_on": [
+      "Stephen King (kniha)"
+    ],
     "directors": [
       "Stanley Kubrick"
     ],
@@ -1079,7 +1110,9 @@
     "rating_value": "87.824379796538",
     "rating_count": "33618",
     "review_count": "1117",
-    "based_on": "Robert Bloch",
+    "based_on": [
+      "Robert Bloch (kniha)"
+    ],
     "directors": [
       "Alfred Hitchcock"
     ],
@@ -1134,7 +1167,9 @@
     "rating_value": "87.796198408885",
     "rating_count": "74916",
     "review_count": "2085",
-    "based_on": "Christopher Priest",
+    "based_on": [
+      "Christopher Priest (kniha)"
+    ],
     "directors": [
       "Christopher Nolan"
     ],
@@ -1193,7 +1228,9 @@
     "rating_value": "87.801448823804",
     "rating_count": "51352",
     "review_count": "753",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Richard Donner"
     ],
@@ -1258,7 +1295,9 @@
     "rating_value": "87.639755314639",
     "rating_count": "33022",
     "review_count": "1244",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Bryan Singer"
     ],
@@ -1314,7 +1353,9 @@
     "rating_value": "87.603804646058",
     "rating_count": "21868",
     "review_count": "957",
-    "based_on": "Ernesto Gastaldi",
+    "based_on": [
+      "Ernesto Gastaldi (povídka)"
+    ],
     "directors": [
       "Sergio Leone"
     ],

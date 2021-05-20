@@ -10,10 +10,12 @@
       "USA"
     ],
     "year": "1994",
-    "rating_value": "94.474761928258",
-    "rating_count": "121602",
+    "rating_value": "94.47480736495",
+    "rating_count": "121603",
     "review_count": "2989",
-    "based_on": "Winston Groom",
+    "based_on": [
+      "Winston Groom (kniha)"
+    ],
     "directors": [
       "Robert Zemeckis"
     ],
@@ -95,7 +97,9 @@
     "rating_value": "87.968992248062",
     "rating_count": "36120",
     "review_count": "998",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Roberto Benigni"
     ],
@@ -144,7 +148,9 @@
     "rating_value": "87.696034886538",
     "rating_count": "24766",
     "review_count": "817",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "William Wyler"
     ],
@@ -202,7 +208,9 @@
     "rating_value": "87.668796262419",
     "rating_count": "35531",
     "review_count": "708",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Billy Wilder"
     ],
@@ -288,7 +296,10 @@
     "rating_value": "86.562905317769",
     "rating_count": "25443",
     "review_count": "430",
-    "based_on": "Jacob GrimmWilhelm Grimm",
+    "based_on": [
+      "Jacob Grimm (kniha)",
+      "Wilhelm Grimm (kniha)"
+    ],
     "directors": [
       "David Hand"
     ],
@@ -331,7 +342,9 @@
     "rating_value": "85.913608186559",
     "rating_count": "10163",
     "review_count": "431",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Stanley Donen",
       "Gene Kelly"
@@ -432,7 +445,9 @@
     "rating_value": "85.899809765377",
     "rating_count": "7885",
     "review_count": "404",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Frank Capra"
     ],
@@ -548,7 +563,9 @@
     "rating_value": "85.662896814288",
     "rating_count": "71444",
     "review_count": "2262",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Richard Curtis"
     ],
@@ -637,7 +654,9 @@
     "rating_value": "85.497901954764",
     "rating_count": "9771",
     "review_count": "303",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Vladimír Slavínský"
     ],
@@ -692,7 +711,9 @@
     "rating_value": "85.480713874496",
     "rating_count": "6948",
     "review_count": "276",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Charlie Chaplin"
     ],
@@ -754,7 +775,9 @@
     "rating_value": "85.51867219917",
     "rating_count": "4820",
     "review_count": "257",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Buster Keaton",
       "Clyde Bruckman"
@@ -803,7 +826,9 @@
     "rating_value": "85.318948824343",
     "rating_count": "18075",
     "review_count": "415",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "George Cukor"
     ],
@@ -888,7 +913,9 @@
     "rating_value": "85.295030367513",
     "rating_count": "22557",
     "review_count": "629",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Philippe de Broca"
     ],
@@ -950,7 +977,9 @@
     "rating_value": "85.287569573284",
     "rating_count": "19404",
     "review_count": "502",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Claude Zidi"
     ],
@@ -1018,7 +1047,9 @@
     "rating_value": "85.320286309686",
     "rating_count": "11037",
     "review_count": "788",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jae-han Lee"
     ],
@@ -1068,7 +1099,9 @@
     "rating_value": "85.271410617033",
     "rating_count": "16709",
     "review_count": "663",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Hajao Mijazaki"
     ],
@@ -1115,7 +1148,9 @@
     "rating_value": "85.376184283857",
     "rating_count": "5383",
     "review_count": "351",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Giuseppe Tornatore"
     ],
@@ -1168,7 +1203,9 @@
     "rating_value": "85.197161073018",
     "rating_count": "41565",
     "review_count": "777",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James L. Brooks"
     ],
@@ -1245,7 +1282,9 @@
     "rating_value": "85.341786108049",
     "rating_count": "3628",
     "review_count": "170",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Makoto Šinkai"
     ],
@@ -1293,7 +1332,9 @@
     "rating_value": "84.959783423387",
     "rating_count": "89391",
     "review_count": "1904",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Cameron"
     ],

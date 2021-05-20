@@ -13,7 +13,9 @@
     "rating_value": "92.332469715006",
     "rating_count": "71405",
     "review_count": "1734",
-    "based_on": "Thomas Keneally",
+    "based_on": [
+      "Thomas Keneally (kniha)"
+    ],
     "directors": [
       "Steven Spielberg"
     ],
@@ -127,7 +129,9 @@
     "rating_value": "87.998503123291",
     "rating_count": "69478",
     "review_count": "1281",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Mel Gibson"
     ],
@@ -201,7 +205,9 @@
     "rating_value": "87.54887703991",
     "rating_count": "30945",
     "review_count": "916",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Otakar Vávra"
     ],
@@ -303,7 +309,9 @@
     "rating_value": "86.666666666667",
     "rating_count": "58155",
     "review_count": "1346",
-    "based_on": "Mark Bowden",
+    "based_on": [
+      "Mark Bowden (kniha)"
+    ],
     "directors": [
       "Ridley Scott"
     ],
@@ -380,7 +388,9 @@
     "rating_value": "86.632888070014",
     "rating_count": "2171",
     "review_count": "109",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Peter Jackson"
     ],
@@ -411,7 +421,9 @@
     "rating_value": "86.032381715201",
     "rating_count": "52437",
     "review_count": "583",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Martin Frič"
     ],
@@ -493,7 +505,9 @@
     "rating_value": "87.265625",
     "rating_count": "768",
     "review_count": "71",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Claude Lanzmann"
     ],
@@ -528,7 +542,9 @@
     "rating_value": "85.726600100567",
     "rating_count": "13921",
     "review_count": "537",
-    "based_on": "Paul Brickhill",
+    "based_on": [
+      "Paul Brickhill (kniha)"
+    ],
     "directors": [
       "John Sturges"
     ],
@@ -588,7 +604,9 @@
     "rating_value": "85.53555139469",
     "rating_count": "20829",
     "review_count": "686",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Ron Howard"
     ],
@@ -662,7 +680,9 @@
     "rating_value": "85.325307165828",
     "rating_count": "12127",
     "review_count": "548",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Oliver Stone"
     ],
@@ -767,7 +787,9 @@
     "rating_value": "85.454545454545",
     "rating_count": "2717",
     "review_count": "156",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Tom DiCillo"
     ],
@@ -808,7 +830,9 @@
     "rating_value": "85.142965347472",
     "rating_count": "10562",
     "review_count": "442",
-    "based_on": "Lew Wallace",
+    "based_on": [
+      "Lew Wallace (kniha)"
+    ],
     "directors": [
       "William Wyler"
     ],
@@ -886,7 +910,9 @@
     "rating_value": "85.15566088549",
     "rating_count": "9283",
     "review_count": "367",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Jiří Sequens st."
     ],
@@ -972,7 +998,9 @@
     "rating_value": "85.2392578125",
     "rating_count": "4096",
     "review_count": "230",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Stanley Kramer"
     ],
@@ -1058,7 +1086,9 @@
     "rating_value": "84.959783423387",
     "rating_count": "89391",
     "review_count": "1904",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "James Cameron"
     ],
@@ -1145,10 +1175,12 @@
       "USA"
     ],
     "year": "2020",
-    "rating_value": "84.973988439306",
-    "rating_count": "6920",
+    "rating_value": "84.973269758705",
+    "rating_count": "6921",
     "review_count": "344",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Aaron Sorkin"
     ],
@@ -1218,7 +1250,9 @@
     "rating_value": "85.008747813047",
     "rating_count": "4001",
     "review_count": "231",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Roger Spottiswoode"
     ],
@@ -1262,7 +1296,9 @@
     "rating_value": "84.870668618838",
     "rating_count": "4098",
     "review_count": "320",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Wojciech Smarzowski"
     ],
@@ -1327,7 +1363,9 @@
     "rating_value": "84.961565338924",
     "rating_count": "2862",
     "review_count": "237",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Andrej Tarkovskij"
     ],
@@ -1372,10 +1410,12 @@
       "Francie"
     ],
     "year": "2006",
-    "rating_value": "84.639042765345",
-    "rating_count": "22565",
+    "rating_value": "84.638837188691",
+    "rating_count": "22566",
     "review_count": "1215",
-    "based_on": "",
+    "based_on": [
+
+    ],
     "directors": [
       "Paul Greengrass"
     ],
