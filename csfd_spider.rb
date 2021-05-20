@@ -1,4 +1,5 @@
 require 'kimurai'
+require 'i18n'
 
 class CsfdSpider < Kimurai::Base
   @name = 'csfd_spider'
@@ -7,22 +8,52 @@ class CsfdSpider < Kimurai::Base
   @config = {}
 
   def parse(response, url:, data: {})
+    genres = %w(
+      Akční
+      Animovaný
+      Dobrodružný
+      Drama
+      Fantasy
+      Historický
+      Horor
+      Hudební
+      Katastrofický
+      Komedie
+      Krimi
+      Mysteriózní
+      Pohádka
+      Rodinný
+      Romantický
+      Sci-Fi
+      Sportovní
+      Thriller
+      Válečný
+      Western
+      Životopisný
+    )
+
     browser.click_button 'Rozumím a přijímám'
-    browser.find(:xpath, "//div[@id='genres-content']/a").click
-    browser.find(:xpath, "//span[.='Fantasy']/preceding::input[1]").click
-    browser.click_button 'Zobrazit'
 
-    response = browser.current_response
+    genres.each do |genre|
+      browser.find(:xpath, "//div[@id='genres-content']/a").click
+      browser.find(:xpath, "//span[.='#{genre}']/preceding::input[1]").click
+      browser.click_button 'Zobrazit'
+      # browser.click_link 'Zobrazit celý žebříček'
 
-    response.xpath("//a[@class='film-title-name']").each do |a|
-      request_to :parse_movie_page, url: absolute_url(a[:href], base: url)
+      # wait_for_ajax
+
+      response = browser.current_response
+
+      response.xpath("//a[@class='film-title-name']").each do |a|
+        request_to(
+          :parse_movie_page,
+          url: absolute_url(a[:href], base: url),
+          data: genre
+        )
+      end
+
+      browser.visit url
     end
-
-    # next_page = response.at_xpath("//a[@class='next_page']")
-    #
-    # if next_page.present?
-    #   request_to :parse, url: absolute_url(next_page[:href], base: url)
-    # end
   end
 
   def parse_movie_page(response, url:, data: {})
@@ -70,30 +101,30 @@ class CsfdSpider < Kimurai::Base
 
     item[:directors] = loop_to_array(
       "//h4[.='Režie: ']/following::span[1]/a | " +
-      "//h4[.='Režie: ']/following::span[1]/span[1]/a"
+        "//h4[.='Režie: ']/following::span[1]/span[1]/a"
     )
 
     item[:scenarists] = loop_to_array(
       "//h4[.='Scénář: ']/following::span[1]/a |" +
-      "//h4[.='Scénář: ']/following::span[1]/span[1]/a"
+        "//h4[.='Scénář: ']/following::span[1]/span[1]/a"
     )
 
     item[:actors] = loop_to_array(
       "//h4[.='Hrají: ']/following::span[1]/a | " +
-      "//h4[.='Hrají: ']/following::span[1]/span[1]/a"
+        "//h4[.='Hrají: ']/following::span[1]/span[1]/a"
     )
 
     item[:musicians] = loop_to_array(
       "//h4[.='Hudba: ']/following::span[1]/a | " +
-      "//h4[.='Hudba: ']/following::span[1]/span[1]/a"
+        "//h4[.='Hudba: ']/following::span[1]/span[1]/a"
     )
 
     item[:producers] = loop_to_array(
       "//h4[.='Produkce: ']/following::span[1]/a | " +
-      "//h4[.='Produkce: ']/following::span[1]/span[1]/a"
+        "//h4[.='Produkce: ']/following::span[1]/span[1]/a"
     )
 
-    save_to "results.json", item, format: :pretty_json
+    save_to "results/#{I18n.transliterate(data).underscore}.json", item, format: :pretty_json
   end
 
   def loop_to_array(xpath)
@@ -104,6 +135,15 @@ class CsfdSpider < Kimurai::Base
     end
 
     items
+  end
+
+  def wait_for_ajax
+    Timeout.timeout(Capybara.default_max_wait_time) do
+      loop do
+        active = @browser.evaluate_script('jQuery.active')
+        break if active == 0
+      end
+    end
   end
 end
 

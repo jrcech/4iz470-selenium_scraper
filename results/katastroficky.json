@@ -1,0 +1,1351 @@
+[
+  {
+    "title": "Titanic",
+    "genres": [
+      "Katastrofický",
+      "Drama",
+      "Romantický",
+      "Historický"
+    ],
+    "origin": [
+      "USA"
+    ],
+    "year": "1997",
+    "rating_value": "84.959783423387",
+    "rating_count": "89391",
+    "review_count": "1904",
+    "based_on": "",
+    "directors": [
+      "James Cameron"
+    ],
+    "scenarists": [
+      "James Cameron"
+    ],
+    "actors": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane",
+      "Kathy Bates",
+      "Bill Paxton",
+      "Gloria Stuart",
+      "Frances Fisher",
+      "Bernard Hill",
+      "Jonathan Hyde",
+      "David Warner",
+      "Victor Garber",
+      "Danny Nucci",
+      "Suzy Amis",
+      "Ewan Stewart",
+      "Ioan Gruffudd",
+      "Richard Graham",
+      "Ron Donachie",
+      "Bernard Fox",
+      "Eric Braeden",
+      "James Cameron",
+      "Seth Adkins",
+      "Tricia O'Neil",
+      "Anne Fletcher",
+      "Jenette Goldstein",
+      "Mark Lindsay Chapman",
+      "Lewis Abernathy",
+      "Simon Crane",
+      "Mike Butters",
+      "Camilla Overbye Roos",
+      "John Walcutt",
+      "Charlotte Chatton",
+      "Martin Jarvis",
+      "Scott Anderson",
+      "Jason Barry",
+      "Greg Ellis",
+      "Rosalind Ayres",
+      "Jari Kinnunen",
+      "Martin Hub",
+      "Michael Ensign",
+      "Barry Dennen",
+      "Jonny Phillips",
+      "Paul Herbert",
+      "Nicholas Cascone",
+      "Martin Laing",
+      "Erik Holland",
+      "Sean Lawlor",
+      "Scott Hislop",
+      "Rebecca Klingler",
+      "Rudy Joffroy",
+      "Shay Duffin",
+      "Paul Brightwell",
+      "Lew Palter",
+      "Elsa Raven",
+      "Rochelle Rose",
+      "Van Ling",
+      "Brian McDermott",
+      "Emmett James",
+      "Alexandra Boyd",
+      "Nick Meaney"
+    ],
+    "musicians": [
+      "James Horner"
+    ],
+    "producers": [
+      "James Cameron",
+      "Jon Landau"
+    ],
+    "position": 1
+  },
+  {
+    "title": "Skleněné peklo",
+    "genres": [
+      "Katastrofický",
+      "Thriller",
+      "Drama",
+      "Akční"
+    ],
+    "origin": [
+      "USA"
+    ],
+    "year": "1974",
+    "rating_value": "84.86425582144",
+    "rating_count": "18638",
+    "review_count": "524",
+    "based_on": "Richard Martin SternThomas N. ScortiaFrank M. Robinson",
+    "directors": [
+      "John Guillermin"
+    ],
+    "scenarists": [
+      "Stirling Silliphant"
+    ],
+    "actors": [
+      "Steve McQueen",
+      "Paul Newman",
+      "William Holden",
+      "Faye Dunaway",
+      "Fred Astaire",
+      "Susan Blakely",
+      "Richard Chamberlain",
+      "Jennifer Jones",
+      "O.J. Simpson",
+      "Robert Vaughn",
+      "Robert Wagner",
+      "Susan Flannery",
+      "Sheila Allen",
+      "Norman Burton",
+      "Jack Collins",
+      "Don Gordon",
+      "Felton Perry",
+      "Gregory Sierra",
+      "Dabney Coleman",
+      "Paul Comi",
+      "Jennifer Rhodes",
+      "William Bassett",
+      "George Wallace",
+      "John Crawford",
+      "Ross Elliott",
+      "Olan Soule",
+      "Ernie F. Orsatti",
+      "Mike Lookinland",
+      "Patrick Culliton",
+      "William Traylor",
+      "Paul King",
+      "Norman Grabowski",
+      "David Armstrong",
+      "Dale Johnson",
+      "Scott Newman"
+    ],
+    "musicians": [
+      "John Williams"
+    ],
+    "producers": [
+      "Irwin Allen"
+    ],
+    "position": 2
+  },
+  {
+    "title": "Nic nás nerozdělí",
+    "genres": [
+      "Katastrofický",
+      "Drama",
+      "Thriller",
+      "Akční"
+    ],
+    "origin": [
+      "Španělsko"
+    ],
+    "year": "2012",
+    "rating_value": "80.503992246273",
+    "rating_count": "21667",
+    "review_count": "1040",
+    "based_on": "",
+    "directors": [
+      "J.A. Bayona"
+    ],
+    "scenarists": [
+      "Sergio G. Sánchez"
+    ],
+    "actors": [
+      "Naomi Watts",
+      "Ewan McGregor",
+      "Tom Holland",
+      "Samuel Joslin",
+      "Oaklee Pendergast",
+      "Marta Etura",
+      "Sönke Möhring",
+      "Geraldine Chaplin",
+      "Ploy Jindachote",
+      "Johan Sundberg",
+      "Douglas Johansson",
+      "Nicola Harrison",
+      "Gitte Witt",
+      "Bruce Blain",
+      "Peter Tuinstra",
+      "Dominic Power",
+      "Oak Keerati",
+      "Wipawee Charoenpura",
+      "Kowit Wattanakul",
+      "Danai Thiengdham",
+      "Bonnie Zellerbach",
+      "Frank Gun",
+      "Sam Holland",
+      "Harry Holland",
+      "Russell Geoffrey Banks",
+      "Byron Gibson"
+    ],
+    "musicians": [
+      "Fernando Velázquez"
+    ],
+    "producers": [
+      "Belén Atienza",
+      "Álvaro Augustín",
+      "Enrique López Lavigne",
+      "Ghislain Barrois"
+    ],
+    "position": 3
+  },
+  {
+    "title": "Dobrodružství Poseidonu",
+    "genres": [
+      "Akční",
+      "Dobrodružný",
+      "Katastrofický",
+      "Drama",
+      "Thriller"
+    ],
+    "origin": [
+      "USA"
+    ],
+    "year": "1972",
+    "rating_value": "79.195322288737",
+    "rating_count": "7183",
+    "review_count": "226",
+    "based_on": "",
+    "directors": [
+      "Ronald Neame",
+      "Irwin Allen"
+    ],
+    "scenarists": [
+      "Stirling Silliphant",
+      "Wendell Mayes"
+    ],
+    "actors": [
+      "Gene Hackman",
+      "Ernest Borgnine",
+      "Red Buttons",
+      "Carol Lynley",
+      "Roddy McDowall",
+      "Stella Stevens",
+      "Shelley Winters",
+      "Jack Albertson",
+      "Arthur O'Connell",
+      "Leslie Nielsen",
+      "Jimmy Cross",
+      "Pamela Sue Martin",
+      "Eric Shea",
+      "Fred Sadoff",
+      "John Crawford",
+      "Sheila Allen",
+      "Waddy Wachtel",
+      "Maurice Marsac",
+      "Ernie F. Orsatti",
+      "Jan Arvan",
+      "Robert Hastings",
+      "Paul Stader",
+      "George Sawaya",
+      "Bob Golden",
+      "George Holmes",
+      "Bill Catching",
+      "David Sharpe"
+    ],
+    "musicians": [
+      "John Williams"
+    ],
+    "producers": [
+      "Irwin Allen"
+    ],
+    "position": 4
+  },
+  {
+    "title": "Den, kdy se zastavila Země",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller",
+      "Katastrofický"
+    ],
+    "origin": [
+      "USA"
+    ],
+    "year": "1951",
+    "rating_value": "77.198166072338",
+    "rating_count": "1963",
+    "review_count": "192",
+    "based_on": "",
+    "directors": [
+      "Robert Wise"
+    ],
+    "scenarists": [
+      "Edmund H. North"
+    ],
+    "actors": [
+      "Michael Rennie",
+      "Patricia Neal",
+      "Hugh Marlowe",
+      "Sam Jaffe",
+      "Billy Gray",
+      "Frances Bavier",
+      "Kim Spalding",
+      "Stuart Whitman",
+      "Lawrence Dobkin",
+      "Harry Lauter",
+      "Harry Harvey",
+      "Sam Harris",
+      "Harold Miller",
+      "Harry 'Snub' Pollard",
+      "David McMahon",
+      "Al Haskell",
+      "Charles Tannen",
+      "Charles Sherlock",
+      "Chet Brandenburg",
+      "Franklyn Farnum",
+      "Robert Osterloh",
+      "James Conaty",
+      "Carleton Young",
+      "House Peters Jr.",
+      "Mike Ragan",
+      "Roy Engel",
+      "Edith Evanson",
+      "Harlan Warde",
+      "Bob Reeves",
+      "George Lynn",
+      "Olan Soule",
+      "James Gonzalez",
+      "Jack Daly",
+      "Dorothy Neumann",
+      "Marc Snow",
+      "Marjorie Crossland"
+    ],
+    "musicians": [
+      "Bernard Herrmann"
+    ],
+    "producers": [
+      "Julian Blaustein"
+    ],
+    "position": 5
+  },
+  {
+    "title": "Zkáza Titaniku",
+    "genres": [
+      "Drama",
+      "Historický",
+      "Katastrofický"
+    ],
+    "origin": [
+      "Velká Británie"
+    ],
+    "year": "1958",
+    "rating_value": "77.51724137931",
+    "rating_count": "435",
+    "review_count": "55",
+    "based_on": "Walter Lord",
+    "directors": [
+      "Roy Ward Baker"
+    ],
+    "scenarists": [
+      "Eric Ambler"
+    ],
+    "actors": [
+      "Kenneth More",
+      "Anthony Bushell",
+      "David McCallum",
+      "Alec McCowen",
+      "Laurence Naismith",
+      "Andrew Keir",
+      "Derren Nesbitt",
+      "Bernard Fox",
+      "Desmond Llewelyn",
+      "Honor Blackman",
+      "Geoffrey Bayldon",
+      "John Moulder-Brown",
+      "Stratford Johns",
+      "Jeremy Bulloch",
+      "Michael Goodliffe",
+      "Frank Lawton",
+      "Robert James",
+      "John Waters",
+      "Marianne Stone",
+      "Jack Watling",
+      "Harold Goldblatt",
+      "Karl-Heinz Kreienbaum",
+      "Kenneth Griffith",
+      "Gerald Harper",
+      "Ralph Michael",
+      "Alma Taylor",
+      "Edward Malin",
+      "Joan Benham",
+      "Steve Plytas",
+      "George Rose",
+      "Ann Lancaster",
+      "Jane Downs",
+      "Jean Anderson",
+      "John Cairney",
+      "Glyn Houston",
+      "Jack Stewart",
+      "Rosamund Greenwoood",
+      "Thomas Heathcote",
+      "Bee Duffell",
+      "Cyril Chamberlain",
+      "Russell Napier",
+      "Richard Shaw",
+      "Harold Siddons",
+      "Bart Allison",
+      "Grace Denbigh Russell",
+      "Pauline Chamberlain",
+      "Howard Pays",
+      "Roger Avon",
+      "Arthur Lovegrove",
+      "George Roderick",
+      "Alf Mangan",
+      "Olwen Brookes",
+      "Joseph Tomelty",
+      "Robert Raglan",
+      "Norman Rossington",
+      "Alan Rolfe",
+      "John Dunbar",
+      "Hal Osmond",
+      "Anthony Pendrell",
+      "Meier Tzelniker",
+      "Gladys Henson",
+      "Julian Somers",
+      "George A. Cooper",
+      "Harriette Johns",
+      "Patrick Waddington",
+      "Ronald Allen",
+      "Donald Churchill",
+      "Gordon Whiting",
+      "Alexis Chesnakov",
+      "Charles Leno",
+      "Charles Rayford",
+      "Allan McClelland",
+      "Keith Anderson",
+      "Russell Waters",
+      "Richard Leech",
+      "Jim O'Brady",
+      "Barry MacGregor",
+      "Richard Clarke",
+      "Philip Ray",
+      "John Merivale",
+      "Maureen O'Reilly",
+      "James Dyrenforth",
+      "Redmond Phillips",
+      "Miki Iveria",
+      "Patrick McAlinney",
+      "George Curtis",
+      "Gerald Lawson",
+      "Bunny Seaman",
+      "Arnold Schulkes",
+      "George Holdcroft",
+      "Alan Robinson",
+      "Michael Bryant",
+      "Barry Steele",
+      "Robert Scroggins",
+      "Lola Morice",
+      "Charles Stapley",
+      "Etain O'Dell",
+      "Charlie Bird",
+      "Tex Fuller"
+    ],
+    "musicians": [
+      "William Alwyn"
+    ],
+    "producers": [
+
+    ],
+    "position": 6
+  },
+  {
+    "title": "Deepwater Horizon: Moře v plamenech",
+    "genres": [
+      "Akční",
+      "Drama",
+      "Thriller",
+      "Katastrofický"
+    ],
+    "origin": [
+      "Hongkong",
+      "USA"
+    ],
+    "year": "2016",
+    "rating_value": "75.837797518139",
+    "rating_count": "14747",
+    "review_count": "559",
+    "based_on": "",
+    "directors": [
+      "Peter Berg"
+    ],
+    "scenarists": [
+      "Matthew Michael Carnahan",
+      "Matthew Sand"
+    ],
+    "actors": [
+      "Mark Wahlberg",
+      "Dylan O'Brien",
+      "Kate Hudson",
+      "Kurt Russell",
+      "John Malkovich",
+      "Gina Rodriguez",
+      "Joe Chrest",
+      "Chris Ashworth",
+      "J.D. Evermore",
+      "Deneen Tyler",
+      "Nazeema Bartek",
+      "Devin Posey",
+      "Ethan Suplee",
+      "Robert Segari",
+      "Jason Kirkpatrick",
+      "Garrett Kruithof",
+      "Douglas M. Griffin",
+      "John L. Armijo",
+      "Brad Leland",
+      "Ilan Muallem",
+      "James DuMont",
+      "Chris Angerdina",
+      "Stella Allen",
+      "Peter Berg",
+      "David Maldonado",
+      "Michael D. Anglin"
+    ],
+    "musicians": [
+      "Steve Jablonsky"
+    ],
+    "producers": [
+      "Lorenzo di Bonaventura",
+      "David Womark",
+      "Mark Vahradian",
+      "Mark Wahlberg"
+    ],
+    "position": 7
+  },
+  {
+    "title": "Smršť",
+    "genres": [
+      "Drama",
+      "Katastrofický"
+    ],
+    "origin": [
+      "Francie",
+      "Japonsko"
+    ],
+    "year": "1957",
+    "rating_value": "76.153846153846",
+    "rating_count": "26",
+    "review_count": "2",
+    "based_on": "",
+    "directors": [
+      "Yves Ciampi"
+    ],
+    "scenarists": [
+      "Yves Ciampi"
+    ],
+    "actors": [
+      "Danielle Darrieux",
+      "Jean Marais",
+      "Keiko Kiši",
+      "Só Jamamura",
+      "Gert Fröbe",
+      "Kumeko Urabe"
+    ],
+    "musicians": [
+      "Čúdži Kinošita"
+    ],
+    "producers": [
+      "Jacques Bar"
+    ],
+    "position": 8
+  },
+  {
+    "title": "Twister",
+    "genres": [
+      "Katastrofický",
+      "Thriller",
+      "Drama",
+      "Dobrodružný",
+      "Akční"
+    ],
+    "origin": [
+      "USA"
+    ],
+    "year": "1996",
+    "rating_value": "68.341478009375",
+    "rating_count": "10027",
+    "review_count": "304",
+    "based_on": "",
+    "directors": [
+      "Jan de Bont"
+    ],
+    "scenarists": [
+      "Michael Crichton",
+      "Anne-Marie Martin"
+    ],
+    "actors": [
+      "Helen Hunt",
+      "Bill Paxton",
+      "Cary Elwes",
+      "Jami Gertz",
+      "Philip Seymour Hoffman",
+      "Lois Smith",
+      "Todd Field",
+      "Joey Slotnick",
+      "Jeremy Davies",
+      "Zach Grenier",
+      "Gregory Sporleder",
+      "Abraham Benrubi",
+      "Jake Busey",
+      "Anthony Rapp",
+      "Richard Lineback",
+      "Rusty Schwimmer",
+      "Alexa PenaVega",
+      "Sean Whalen",
+      "Alan Ruck",
+      "Patrick Fischler",
+      "Ben Weber",
+      "Erik LaRay Harvey",
+      "Scott Thomson",
+      "Nicholas Sadler",
+      "Darryl Cox",
+      "Taylor Gilbert"
+    ],
+    "musicians": [
+      "Mark Mancina"
+    ],
+    "producers": [
+      "Ian Bryce",
+      "Kathleen Kennedy",
+      "Michael Crichton"
+    ],
+    "position": 9
+  },
+  {
+    "title": "33 životů",
+    "genres": [
+      "Katastrofický",
+      "Životopisný",
+      "Historický",
+      "Drama"
+    ],
+    "origin": [
+      "USA",
+      "Chile"
+    ],
+    "year": "2015",
+    "rating_value": "66.978990581985",
+    "rating_count": "4141",
+    "review_count": "142",
+    "based_on": "",
+    "directors": [
+      "Patricia Riggen"
+    ],
+    "scenarists": [
+      "Jose Rivera",
+      "Craig Borten",
+      "Michael Thomas",
+      "Mikko Alanne"
+    ],
+    "actors": [
+      "Antonio Banderas",
+      "Rodrigo Santoro",
+      "Juliette Binoche",
+      "James Brolin",
+      "Lou Diamond Phillips",
+      "Mario Casas",
+      "Cote de Pablo",
+      "Jacob Vargas",
+      "Oscar Nuñez",
+      "Tenoch Huerta",
+      "Marco Treviño",
+      "Adriana Barraza",
+      "Kate del Castillo",
+      "Juan Pablo Raba",
+      "Naomi Scott",
+      "Gustavo Angarita",
+      "Alejandro Goic",
+      "Bob Gunton",
+      "Gabriel Byrne",
+      "Mario Zaragoza",
+      "Paulina García",
+      "Jorge Diaz",
+      "Diego Noguera",
+      "Trinidad González",
+      "Ángela García",
+      "Anderson Cooper",
+      "Elizabeth De Razzo",
+      "Erik Rodriguez",
+      "Ariel Sierra",
+      "William Winston",
+      "Pedro Calvo",
+      "Santiago Carreño",
+      "Jaime Correa"
+    ],
+    "musicians": [
+      "James Horner"
+    ],
+    "producers": [
+      "Mike Medavoy"
+    ],
+    "position": 10
+  },
+  {
+    "title": "Vlna",
+    "genres": [
+      "Akční",
+      "Drama",
+      "Thriller",
+      "Katastrofický"
+    ],
+    "origin": [
+      "Norsko"
+    ],
+    "year": "2015",
+    "rating_value": "66.315228966986",
+    "rating_count": "1878",
+    "review_count": "149",
+    "based_on": "",
+    "directors": [
+      "Roar Uthaug"
+    ],
+    "scenarists": [
+      "John Kåre Raake",
+      "Harald Rosenløw Eeg"
+    ],
+    "actors": [
+      "Kristoffer Joner",
+      "Ane Dahl Torp",
+      "Jonas Hoff Oftebro",
+      "Edith Haagenrud-Sande",
+      "Fridtjov Såheim",
+      "Laila Goody",
+      "Arthur Berning",
+      "Herman Bernhoft",
+      "Eili Harboe",
+      "Silje Breivik",
+      "Håkon Moe",
+      "Tyra Holmen",
+      "Thomas Bo Larsen",
+      "Lado Hadzic",
+      "Tom Larsen",
+      "Mette Agnete Horn"
+    ],
+    "musicians": [
+      "Magnus Beite"
+    ],
+    "producers": [
+
+    ],
+    "position": 11
+  },
+  {
+    "title": "Vajont - šílenství mužů",
+    "genres": [
+      "Drama",
+      "Katastrofický"
+    ],
+    "origin": [
+      "Itálie",
+      "Francie"
+    ],
+    "year": "2001",
+    "rating_value": "66.50406504065",
+    "rating_count": "246",
+    "review_count": "30",
+    "based_on": "",
+    "directors": [
+      "Renzo Martinelli"
+    ],
+    "scenarists": [
+      "Renzo Martinelli",
+      "Pietro Calderoni"
+    ],
+    "actors": [
+      "Michel Serrault",
+      "Daniel Auteuil",
+      "Laura Morante",
+      "Jorge Perugorría",
+      "Anita Caprioli",
+      "Leo Gullotta",
+      "Philippe Leroy",
+      "Jean-Christophe Brétigniere",
+      "Nicola Di Pinto",
+      "Massimo Vanni",
+      "Fabio Grossi",
+      "François Montagut",
+      "Massimo Sarchielli",
+      "Valerio Manfredi",
+      "Paco Reconti",
+      "Luisa Marzotto",
+      "Emiliana Franzone"
+    ],
+    "musicians": [
+
+    ],
+    "producers": [
+
+    ],
+    "position": 12
+  },
+  {
+    "title": "Greenland: Poslední úkryt",
+    "genres": [
+      "Akční",
+      "Thriller",
+      "Katastrofický"
+    ],
+    "origin": [
+      "USA"
+    ],
+    "year": "2020",
+    "rating_value": "65.705583756345",
+    "rating_count": "3940",
+    "review_count": "244",
+    "based_on": "",
+    "directors": [
+      "Ric Roman Waugh"
+    ],
+    "scenarists": [
+      "Chris Sparling"
+    ],
+    "actors": [
+      "Gerard Butler",
+      "Morena Baccarin",
+      "Roger Dale Floyd",
+      "Scott Glenn",
+      "David Denman",
+      "Hope Davis",
+      "Holt McCallany",
+      "Andrew Bachelor",
+      "Merrin Dungey",
+      "Gary Weeks",
+      "Joshua Mikel",
+      "Randal Gonzalez",
+      "Brandon Quinn",
+      "Rick Pasqualone",
+      "Nicola Lambo",
+      "Alan Pietruszewski",
+      "James Logan",
+      "Scott Poythress",
+      "Kurt Yue",
+      "Kendrick Cross",
+      "Claire Bronson",
+      "Madison Johnson",
+      "Hayes Mercure",
+      "Marc Gowan",
+      "Anissa Matlock",
+      "Randall Archer",
+      "Rose Bianco",
+      "Adam Cronan",
+      "Cate Jones",
+      "Jaime Andrews",
+      "Susan Williams",
+      "Erin Fasano",
+      "Steven I. Dillard",
+      "Tracey Bonner"
+    ],
+    "musicians": [
+      "David Buckley"
+    ],
+    "producers": [
+      "Basil Iwanyk",
+      "Gerard Butler",
+      "Alan Siegel"
+    ],
+    "position": 13
+  },
+  {
+    "title": "Den poté",
+    "genres": [
+      "Katastrofický",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "origin": [
+      "USA"
+    ],
+    "year": "2004",
+    "rating_value": "65.605144553149",
+    "rating_count": "36388",
+    "review_count": "878",
+    "based_on": "",
+    "directors": [
+      "Roland Emmerich"
+    ],
+    "scenarists": [
+      "Jeffrey Nachmanoff"
+    ],
+    "actors": [
+      "Dennis Quaid",
+      "Jake Gyllenhaal",
+      "Ian Holm",
+      "Emmy Rossum",
+      "Sela Ward",
+      "Dash Mihok",
+      "Kenneth Welsh",
+      "Jay O. Sanders",
+      "Austin Nichols",
+      "Perry King",
+      "Nestor Serrano",
+      "Adrian Lester",
+      "Sheila McCarthy",
+      "Arjay Smith",
+      "Glenn Plummer",
+      "Tamlyn Tomita",
+      "Sasha Roiz",
+      "Mimi Kuzyk",
+      "Tim Bagley",
+      "Rick Hoffman",
+      "Chuck Shamata",
+      "Larry Day",
+      "Amy Sloan",
+      "Caroline Keenan",
+      "Aaron Lustig",
+      "Emanuel Hoss-Desmarais",
+      "Frank Schorpion",
+      "Anne Day-Jones",
+      "Jason Blicker",
+      "John Colton",
+      "Russell Yuen",
+      "Joe Cobden",
+      "John Maclaren",
+      "José Ramón Rosario",
+      "Matt Adler",
+      "Terry Simpson",
+      "Joel McNichol",
+      "Gordon Masten",
+      "Tony Calabretta",
+      "Rosey Edeh",
+      "Jack Laufer",
+      "Carl Alacchi",
+      "Lina Patel",
+      "Phillip Jarrett",
+      "Terry Rhoads",
+      "Kenneth Moskow",
+      "J.P. Manoux",
+      "Vitali Makarov",
+      "Pauline Little",
+      "Vivian Winther",
+      "Matt Holland",
+      "Pierre Leblanc",
+      "Greg Kramer",
+      "Ayana O'Shun"
+    ],
+    "musicians": [
+      "Harald Kloser"
+    ],
+    "producers": [
+      "Mark Gordon"
+    ],
+    "position": 14
+  },
+  {
+    "title": "Ledokol",
+    "genres": [
+      "Drama",
+      "Katastrofický"
+    ],
+    "origin": [
+      "Rusko"
+    ],
+    "year": "2016",
+    "rating_value": "67.826086956522",
+    "rating_count": "23",
+    "review_count": "1",
+    "based_on": "",
+    "directors": [
+      "Nikolaj Chomeriki"
+    ],
+    "scenarists": [
+      "Andrej Zolotarev",
+      "Alexej Oniščenko"
+    ],
+    "actors": [
+      "Pjotr Fjodorov",
+      "Sergej Puskepalis",
+      "Alexandr Jacenko",
+      "Alexandr Pal",
+      "Vitalij Chajev",
+      "Anna Michalkova",
+      "Olga Smirnova",
+      "Alexej Barabaš",
+      "Dmitrij Muljar",
+      "Anatolij Chropov",
+      "Dmitrij Podnozov",
+      "Stanislav Rjadinskij",
+      "Igor Sergejev",
+      "Beso Gatajev",
+      "Jegor Zubarčuk",
+      "Alexandr Oblasov",
+      "Margarita Byčkova",
+      "Lev Grišin"
+    ],
+    "musicians": [
+      "Tuomas Kantelinen"
+    ],
+    "producers": [
+      "Sergej Kozlov",
+      "Igor Tolstunov"
+    ],
+    "position": 15
+  },
+  {
+    "title": "Zemětřesení",
+    "genres": [
+      "Katastrofický",
+      "Drama",
+      "Thriller"
+    ],
+    "origin": [
+      "USA"
+    ],
+    "year": "1974",
+    "rating_value": "64.125809435708",
+    "rating_count": "1081",
+    "review_count": "76",
+    "based_on": "",
+    "directors": [
+      "Mark Robson"
+    ],
+    "scenarists": [
+      "George Fox",
+      "Mario Puzo"
+    ],
+    "actors": [
+      "Charlton Heston",
+      "Ava Gardner",
+      "George Kennedy",
+      "Lorne Greene",
+      "Geneviève Bujold",
+      "Richard Roundtree",
+      "Marjoe Gortner",
+      "Barry Sullivan",
+      "Lloyd Nolan",
+      "Victoria Principal",
+      "Walter Matthau",
+      "Monica Lewis",
+      "Pedro Armendáriz Jr.",
+      "John Randolph",
+      "Donald Moffat",
+      "Jesse Vint",
+      "Alan Vint",
+      "Gene Dynarski",
+      "Reb Brown",
+      "Sandy Ward",
+      "Scott Hylands",
+      "Tim Herbert",
+      "Jerry Hardin",
+      "Dick Warlock",
+      "George Murdock",
+      "John Tuell",
+      "Lloyd Gough",
+      "Charlie Picerni",
+      "John Dennis",
+      "Karl Lukas",
+      "Bruce M. Fischer",
+      "Stuart Nisbet",
+      "Kip Niven",
+      "Michael Richardson",
+      "Gabriel Dell",
+      "Keith Walker",
+      "Sam Chew Jr.",
+      "Debralee Scott",
+      "H.B. Haggerty",
+      "Josh Albee",
+      "Bert Kramer",
+      "Ernest Harada",
+      "Jimmy Nickerson",
+      "Lars Hensen",
+      "Joan Blair",
+      "Ernesto Molinari",
+      "Don Wilbanks",
+      "George Sawaya",
+      "Frances Osborne",
+      "Norman Stevans",
+      "Alex Brown",
+      "Dave Morick",
+      "Tony Regan",
+      "Shannon Christie",
+      "Tiger Williams",
+      "John Elerick",
+      "John S. Ragin",
+      "Don Mantooth",
+      "Bob Cunningham",
+      "Dean Smith",
+      "Vivian Brown",
+      "Kenny Endoso"
+    ],
+    "musicians": [
+      "John Williams"
+    ],
+    "producers": [
+      "Mark Robson"
+    ],
+    "position": 16
+  },
+  {
+    "title": "Nad ostrovy nevyjde slunce",
+    "genres": [
+      "Thriller",
+      "Sci-Fi",
+      "Drama",
+      "Katastrofický"
+    ],
+    "origin": [
+      "Japonsko"
+    ],
+    "year": "1973",
+    "rating_value": "63.265306122449",
+    "rating_count": "49",
+    "review_count": "6",
+    "based_on": "",
+    "directors": [
+      "Širó Moritani"
+    ],
+    "scenarists": [
+      "Šinobu Hašimoto"
+    ],
+    "actors": [
+      "Lorne Greene",
+      "John Fujioka",
+      "Joe Dante",
+      "Susan Sennett",
+      "Isao Nacujagi",
+      "Andrew Meyer",
+      "Džun Kunimura",
+      "Tecuró Tanba",
+      "Tecu Nakamura",
+      "Pierre Taki",
+      "Kandži Cuda",
+      "Clifford A. Pellow",
+      "Keidžu Kobajaši",
+      "Hiroši Fudžioka",
+      "Kazuo Kató",
+      "Hideaki Nitani",
+      "Kunio Murai",
+      "Akira Nagoja",
+      "Ajumi Išida",
+      "Kóiči Itó",
+      "Baku Ówada",
+      "Šigeo Kató"
+    ],
+    "musicians": [
+      "Masaru Sató"
+    ],
+    "producers": [
+
+    ],
+    "position": 17
+  },
+  {
+    "title": "The Rescue",
+    "genres": [
+      "Katastrofický",
+      "Akční"
+    ],
+    "origin": [
+      "Čína"
+    ],
+    "year": "2020",
+    "rating_value": "63.414634146341",
+    "rating_count": "123",
+    "review_count": "19",
+    "based_on": "",
+    "directors": [
+      "Dante Lam"
+    ],
+    "scenarists": [
+      "Dante Lam"
+    ],
+    "actors": [
+      "Eddie Peng",
+      "Jules Hartley",
+      "Yanlin Wang",
+      "Zhilei Xin",
+      "Lyric Lan",
+      "Yutian Wang",
+      "Yang Xu",
+      "Carlos Chan",
+      "Mincheng Li",
+      "Guoqiang Zhang",
+      "Xiaodong Guo",
+      "Daxun Wei",
+      "Yichun Liu",
+      "Max Wang"
+    ],
+    "musicians": [
+      "Elliott Leung"
+    ],
+    "producers": [
+      "Candy Leung"
+    ],
+    "position": 18
+  },
+  {
+    "title": "Drtivý dopad",
+    "genres": [
+      "Katastrofický",
+      "Drama",
+      "Akční",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "origin": [
+      "USA"
+    ],
+    "year": "1998",
+    "rating_value": "63.647536231884",
+    "rating_count": "17250",
+    "review_count": "396",
+    "based_on": "",
+    "directors": [
+      "Mimi Leder"
+    ],
+    "scenarists": [
+      "Bruce Joel Rubin",
+      "Michael Tolkin"
+    ],
+    "actors": [
+      "Robert Duvall",
+      "Téa Leoni",
+      "Elijah Wood",
+      "Vanessa Redgrave",
+      "Morgan Freeman",
+      "Maximilian Schell",
+      "James Cromwell",
+      "Ron Eldard",
+      "Jon Favreau",
+      "Laura Innes",
+      "Mary McCormack",
+      "Richard Schiff",
+      "Leelee Sobieski",
+      "Blair Underwood",
+      "Dougray Scott",
+      "Bruce Weitz",
+      "Rya Kihlstedt",
+      "Mark Moses",
+      "Denise Crosby",
+      "Kimberly Huie",
+      "Jason Dohring",
+      "Concetta Tomei",
+      "Mike O'Malley",
+      "Kurtwood Smith",
+      "Charles Martin Smith",
+      "Mic Rodgers",
+      "Cynthia Ettinger",
+      "Derek de Lint",
+      "Merrin Dungey",
+      "Betsy Brantley",
+      "Alimi Ballard",
+      "Don Handfield",
+      "Alexandr Balujev",
+      "Jennifer Jostyn",
+      "Thomas Rosales Jr.",
+      "Suzy Nakamura",
+      "John Ducey",
+      "Francis X. McCarthy",
+      "Ellen Bry",
+      "Leslie Dilley",
+      "Tucker Smallwood",
+      "Joe Urla",
+      "Sommer Garcia",
+      "Christopher Darga",
+      "Charles Rahi Chun",
+      "Charles Dumas",
+      "Una Damon",
+      "Michael Winters",
+      "Hannah Leder",
+      "Frank Whiteman"
+    ],
+    "musicians": [
+      "James Horner"
+    ],
+    "producers": [
+      "Richard D. Zanuck",
+      "David Brown"
+    ],
+    "position": 19
+  },
+  {
+    "title": "Pandora",
+    "genres": [
+      "Katastrofický",
+      "Drama"
+    ],
+    "origin": [
+      "Jižní Korea"
+    ],
+    "year": "2016",
+    "rating_value": "62.907488986784",
+    "rating_count": "227",
+    "review_count": "25",
+    "based_on": "",
+    "directors": [
+      "Jeong-woo Park"
+    ],
+    "scenarists": [
+      "Jeong-woo Park"
+    ],
+    "actors": [
+      "Nam-gil Kim",
+      "Joo-hyeon Kim",
+      "Jin-yeong Jeong",
+      "Yeong-ae Kim",
+      "Jeong-hee Moon",
+      "Dae-myeong Kim",
+      "Kyeong-yeong Lee",
+      "Shin-il Kang",
+      "Seung-mok Yoo",
+      "Jin-mo Joo",
+      "Young-chang Song",
+      "Yeong-woong Kim",
+      "Se-dong Kim",
+      "Hyo-sang Choi",
+      "Jeong-hwan Kong",
+      "Deok-hyeon Jo",
+      "Jong-hak Son",
+      "Jong-goo Kim",
+      "Han-cheol Jo",
+      "Seung-dae Lim",
+      "In-gi Jeong",
+      "Do-bin Baek",
+      "Seok-tae Joo",
+      "Hye-eun Kim",
+      "Myeong-min Kim",
+      "Ji-hyeok Min",
+      "Ye-seol Oh",
+      "Yeong-gyu Song",
+      "Min Kang",
+      "Jung-hoon Kim"
+    ],
+    "musicians": [
+      "Yeong-wook Jo"
+    ],
+    "producers": [
+
+    ],
+    "position": 20
+  }
+]
