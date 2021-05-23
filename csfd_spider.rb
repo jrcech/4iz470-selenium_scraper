@@ -32,15 +32,15 @@ class CsfdSpider < Kimurai::Base
       Životopisný
     )
 
-    browser.click_button 'Rozumím a přijímám'
+    # browser.click_button 'Rozumím a přijímám'
 
     genres.each do |genre|
       browser.find(:xpath, "//div[@id='genres-content']/a").click
       browser.find(:xpath, "//span[.='#{genre}']/preceding::input[1]").click
       browser.click_button 'Zobrazit'
-      # browser.click_link 'Zobrazit celý žebříček'
+      browser.click_link 'Zobrazit celý žebříček'
 
-      # wait_for_ajax
+      wait_for_ajax
 
       response = browser.current_response
 
