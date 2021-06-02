@@ -8,7 +8,7 @@ class CsfdSpider < Kimurai::Base
   @config = {}
 
   def parse(response, url:, data: {})
-    genres = %w(
+    genres = %w[
       Akční
       Animovaný
       Dobrodružný
@@ -30,9 +30,9 @@ class CsfdSpider < Kimurai::Base
       Válečný
       Western
       Životopisný
-    )
+    ]
 
-    # browser.click_button 'Rozumím a přijímám'
+    browser.click_button 'Rozumím a přijímám'
 
     genres.each do |genre|
       browser.find(:xpath, "//div[@id='genres-content']/a").click
@@ -146,7 +146,7 @@ class CsfdSpider < Kimurai::Base
     Timeout.timeout(Capybara.default_max_wait_time) do
       loop do
         active = @browser.evaluate_script('jQuery.active')
-        break if active == 0
+        break if active.zero?
       end
     end
   end
